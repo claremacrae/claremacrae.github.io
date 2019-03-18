@@ -1,12 +1,12 @@
 #theme: jekyll-theme-slate
-name: Hank Quinlan, Horrible Cop
+name: Clare Macrae
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 # Setup
-title: Hank Quinlan's Blog
-url: http://hankquinlan.github.io
+title: Clare Macrae's Blog
+url: https://claremacrae.github.io/
 
 author:
-  name:             Hank Quinlan
-  email:            hankquinlanhub@gmail.com
+  name:             Clare Macrae
+  email:            
