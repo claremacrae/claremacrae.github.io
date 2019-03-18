@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Site ported to github pages"
 date: 2019-03-18
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This site was originally on commercially-hosted WordPress. Today I've started moving it to github pages.
+
+The following pages were really useful in this process:
+
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
