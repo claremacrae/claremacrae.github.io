@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Welcome
 ---
 
-# Hi there, I'm Hank Quinlan!
+# Welcome to the future home of my website
 
-I'm best known as the horrible cop from *A Touch of Evil* Don't trust me. [Read more about my life](about.html)...
+This will eventually be the new home of [http://www.claremacrae.co.uk/](http://www.claremacrae.co.uk/) - with added `https`.
 
+Nothing to see here yet, though - please come back later.
