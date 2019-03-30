@@ -29,25 +29,32 @@ Molecular](http://www.isis-innovation.com/spinout/oxmol.html) in early
 
 ## Working life
 
-By day, I’m now the Database Development Manager at
-[CCDC](http://www.ccdc.cam.ac.uk/) – leading the team responsible for
+By day, I’m now a Principal Scientific Software Engineer at
+[CCDC](http://www.ccdc.cam.ac.uk/).
+
+Recent projects have included:
+
+* leading the team responsible for
 delivering
-[CSD-Xpedite](http://www.ccdc.cam.ac.uk/SUPPORTANDRESOURCES/Support/Pages/SupportSolution.aspx?supportsolutionid=304).
+[CSD-Xpedite](http://www.ccdc.cam.ac.uk/SUPPORTANDRESOURCES/Support/Pages/SupportSolution.aspx?supportsolutionid=304)
+* leading the project that [replaced the ASER database format](https://www.ccdc.cam.ac.uk/Community/blog/2017-12-14-csd-release-2018/). 
+* implementing the [Polyhedral display style in Mercury](https://www.ccdc.cam.ac.uk/Community/blog/greater-structural-insight-and-clearer-visualisation/). 
+
+
 Our continued adoption of [Agile software development
 practices](http://agilemanifesto.org/) played a significant part in our
 ability to deliver CSD-Xpedite. (I say “continued adoption” of Agile, as
 I don’t believe it’s a state ever achieved, but more a continuous
 journey of improvement.)
 
-When I’m programming there, it’s mainly in C++ and Qt, though very
-occasionally my days of Fortran 77 come back to haunt me, as I’m one of
-only 2 or 3 remaining people familiar with our oldest code that’s still
-in use.
+When I’m programming there, it’s mainly in C++ and Qt.
 
-Although I rarely work on it directly now, I remain very proud of our
+With the replacement of ASER in our releases in late 2018, we archived more than three decades worth of FORTRAN 77 code, so that's a skill that I no longer use.
+
+I remain very proud of our
 [Mercury](http://www.ccdc.cam.ac.uk/Solutions/CSDSystem/Pages/Mercury.aspx)
 crystal structure visualisation program. I was the original, and then
-lead, developer of Mercury from 1999 until around 2010.
+lead, developer of Mercury from 1999 until around 2010. In December 2018 I returned to working on Mercury.
 
 ## Scripting and automation
 
@@ -62,13 +69,13 @@ dabble in Python.
 
 ## Learning
 
-I often attend evening talks organised by [Software
+I have attended a lot of evening talks organised by [Software
 East](http://softwareast.ning.com/) and I really appreciate their
 support of the Cambridge software development community. I’ve also
 enjoyed the rare occasions I’ve been able to go to [Skills
 Matter](https://skillsmatter.com/) events in London.
 
-A particular focus over the last year or so has been learning about
+A particular focus in recent years has been learning about
 [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) and
 [Continuous Deployment](http://en.wikipedia.org/wiki/Continuous_delivery).
 
@@ -100,10 +107,8 @@ computing projects. Besides Python and Markdown, the current focus is
 enjoying the Raspberry Pi that I bought in April 2013, after hearing
 Eben Upton’s inspiring keynote talk at the ACCU conference in Bristol.
 
-In May 2014 I became a [STEM
-Ambassador](http://www.stemnet.org.uk/ambassadors/what-do-stem-ambassadors-do/).
 I’m keen to support local educational computing projects, especially
-ones involve the Raspberry Pi.
+ones involving the Raspberry Pi.
 
 ## Links
 
