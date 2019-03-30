@@ -123,4 +123,4 @@ ones involve the Raspberry Pi.
 
 [![profile for Clare Macrae on Stack Exchange, a network of free,
 community-driven Q&A
-sites](http://stackexchange.com/users/flair/36582.png "profile for Clare Macrae on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/36582/clare-macrae)
+sites](https://stackexchange.com/users/flair/36582.png "profile for Clare Macrae on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/36582/clare-macrae)
