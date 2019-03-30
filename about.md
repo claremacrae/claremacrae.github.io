@@ -3,64 +3,22 @@ layout: default
 title: "About me"
 ---
 
-# About me
+# About Me
 
-From about.md
-<div id="page" class="hfeed">
-
-<span>[Clare Macrae](http://www.claremacrae.co.uk/)</span> {#site-title}
-==========================================================
-
-Software development, Raspberry Pi… {#site-description}
------------------------------------
-
-[![Clare
-Macrae](http://www.claremacrae.co.uk/wp-content/uploads/2013/06/cropped-Bryce-Canyon-131-DSC_4642.1.jpg)](http://www.claremacrae.co.uk/)
-Search
-### Main menu {.assistive-text}
-
-<div class="skip-link">
-
-[Skip to primary content](#content)
-
-</div>
-
-<div class="menu">
-
--   [Home](http://www.claremacrae.co.uk/)
--   [About Me](http://www.claremacrae.co.uk/about-me/)
-
-</div>
-
-<div id="main">
-
-<div id="primary">
-
-<div id="content" role="main">
-
-About Me {.entry-title}
-========
-
-<div class="entry-content">
-
-I’m Clare Macrae.
-
-My background
--------------
+## My background
 
 This will date me, but my first programming experiences were working
 through [Donald Alcock’s Illustrating
 Basic](http://www.computinghistory.org.uk/cgi/archive.pl?type=Books&platform=&author=Donald%20Alcock&publisher=&order=Publisher)
 with my Dad! My timing at school was lucky, as I got there just in time
 for the first [BBC Micro](http://en.wikipedia.org/wiki/BBC_Micro) to
-arrive. Then Dad got a [Transam
-Tuscan](http://www.computinghistory.org.uk/det/7010/Transam-Tuscan-S100/),
+arrive. Then Dad got a [Transam Tuscan](http://www.computinghistory.org.uk/det/7010/Transam-Tuscan-S100/),
 and the days of hand-writing instructions to send away to be typed up
 were over.
 
 At University, I was able to keep up the programming interest in my
 fourth year, when I did a computational chemistry project in [Professor
-Graham Richards](http://en.wikipedia.org/wiki/Graham_Richards)‘ lab, for
+Graham Richards](http://en.wikipedia.org/wiki/Graham_Richards)' lab, for
 the Part II of my chemistry degree.
 
 From there, in 1987 I got a job as a junior programmer at [Cambridge
@@ -69,8 +27,7 @@ from a brief 6-month stint in sales at [Oxford
 Molecular](http://www.isis-innovation.com/spinout/oxmol.html) in early
 1991, I’ve been a developer at CCDC ever since.
 
-Working life
-------------
+## Working life
 
 By day, I’m now the Database Development Manager at
 [CCDC](http://www.ccdc.cam.ac.uk/) – leading the team responsible for
@@ -92,8 +49,7 @@ Although I rarely work on it directly now, I remain very proud of our
 crystal structure visualisation program. I was the original, and then
 lead, developer of Mercury from 1999 until around 2010.
 
-Scripting and automation
-------------------------
+## Scripting and automation
 
 I’m passionate about using computers to save time. This means I’ve
 contributed to CCDC’s software build and version control systems for
@@ -104,8 +60,7 @@ At work and at home,  I’m a keen user and advocate of the
 keystroke-saving tool [AutoHotKey](http://www.autohotkey.com/) and I
 dabble in Python.
 
-Learning
---------
+## Learning
 
 I often attend evening talks organised by [Software
 East](http://softwareast.ning.com/) and I really appreciate their
@@ -114,24 +69,20 @@ enjoyed the rare occasions I’ve been able to go to [Skills
 Matter](https://skillsmatter.com/) events in London.
 
 A particular focus over the last year or so has been learning about
-[Continuous
-Integration](http://en.wikipedia.org/wiki/Continuous_integration) and
-[Continuous
-Deployment](http://en.wikipedia.org/wiki/Continuous_delivery).
+[Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) and
+[Continuous Deployment](http://en.wikipedia.org/wiki/Continuous_delivery).
 
 I’ve developed quite a sophisticated system for capturing things I
 learn, and useful references – all stored in
-[Markdown](https://daringfireball.net/projects/markdown/)format, in
+[Markdown](https://daringfireball.net/projects/markdown/) format, in
 Dropbox. On PCs, I use [MarkdownPad 2](http://markdownpad.com/)
 ([Pro](https://markdownpad.com/buy.html)). On iPad, I use
-[Editorial](http://omz-software.com/editorial/) – where various
-customised
-[actions](http://omz-software.com/editorial/docs/ios_workflows/reference.html)provide
+[Editorial](http://omz-software.com/editorial/) – where various customised
+[actions](http://omz-software.com/editorial/docs/ios_workflows/reference.html) provide
 a slick way to transfer information from Twitter and RSS feeds into
 Markdown. Both these applications are highly recommended.
 
-Interests
----------
+## Interests
 
 I love folk music, and am always on the lookout for good music, both
 locally and further afield.
@@ -154,49 +105,22 @@ Ambassador](http://www.stemnet.org.uk/ambassadors/what-do-stem-ambassadors-do/).
 I’m keen to support local educational computing projects, especially
 ones involve the Raspberry Pi.
 
-Links
------
+## Links
 
--   [My profile at
-    CCDC](http://www.ccdc.cam.ac.uk/CCDC/SeniorManagement/pages/Profile.aspx?profileid=4)
--   [My account on github](https://github.com/claremacrae)
--   [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
--   [Linkedin](https://www.linkedin.com/in/claremacrae)
--   [YouTube](http://www.youtube.com/channel/UCNxLq_HrqajGIvPMR63R64A/videos?flow=grid&view=0)
+* [My profile at CCDC](http://www.ccdc.cam.ac.uk/CCDC/SeniorManagement/pages/Profile.aspx?profileid=4)
+* [My account on github](https://github.com/claremacrae)
+* [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
+* [Linkedin](https://www.linkedin.com/in/claremacrae)
+* [YouTube](http://www.youtube.com/channel/UCNxLq_HrqajGIvPMR63R64A/videos?flow=grid&view=0)
 
-Scientific Publications
------------------------
+## Scientific Publications
 
--   [ORCID](http://orcid.org/0000-0003-3664-8645)
--   [Google Scholar
-    Profile](http://scholar.google.co.uk/citations?user=CNekj-gAAAAJ)
--   [Scopus Author ID:
-    8103868000](http://www.scopus.com/authid/detail.url?authorId=8103868000)
+* [ORCID](http://orcid.org/0000-0003-3664-8645)
+* [Google Scholar Profile](http://scholar.google.co.uk/citations?user=CNekj-gAAAAJ)
+* [Scopus Author ID: 8103868000](http://www.scopus.com/authid/detail.url?authorId=8103868000)
 
-Me on StackExchange
--------------------
+## Me on StackExchange
 
 [![profile for Clare Macrae on Stack Exchange, a network of free,
 community-driven Q&A
 sites](http://stackexchange.com/users/flair/36582.png "profile for Clare Macrae on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/36582/clare-macrae)
-
-</div>
-
-<div id="comments">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="site-generator">
-
-[Proudly powered by
-WordPress](http://wordpress.org/ "Semantic Personal Publishing Platform")
-
-</div>
-
-</div>
