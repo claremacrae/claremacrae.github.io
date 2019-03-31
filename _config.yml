@@ -10,3 +10,5 @@ url: https://claremacrae.github.io/
 author:
   name:             Clare Macrae
   email:            
+
+theme: jekyll-theme-slate
