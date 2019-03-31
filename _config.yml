@@ -1,7 +1,7 @@
 #theme: jekyll-theme-slate
 name: Clare Macrae
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:title
 
 # Setup
 title: Clare Macrae's Blog
