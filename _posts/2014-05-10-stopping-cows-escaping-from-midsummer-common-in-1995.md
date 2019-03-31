@@ -16,9 +16,9 @@ archived online, so I scanned it in.
 First, the intro – from Cllr Ian Nimmo-Smith:
 
 [![Midsummer Common message
-1-small](http://www.claremacrae.co.uk/wp-content/uploads/2014/05/Midsummer-Common-message-1-small-924x1024.png)](http://www.claremacrae.co.uk/wp-content/uploads/2014/05/Midsummer-Common-message-1-small.png)
+1-small](/images/Midsummer-Common-message-1-small-924x1024.png)](/images/Midsummer-Common-message-1-small.png)
 
 And then the absolutely delightful reply from Jeremy Johnson:
 [![Midsummer Common message
-2-small](http://www.claremacrae.co.uk/wp-content/uploads/2014/05/Midsummer-Common-message-2-small-991x1024.png)](http://www.claremacrae.co.uk/wp-content/uploads/2014/05/Midsummer-Common-message-2-small.png)
+2-small](/images/Midsummer-Common-message-2-small-991x1024.png)](/images/Midsummer-Common-message-2-small.png)
 
