@@ -19,6 +19,7 @@ First, the intro – from Cllr Ian Nimmo-Smith:
 1-small](/images/Midsummer-Common-message-1-small-924x1024.png)](/images/Midsummer-Common-message-1-small.png)
 
 And then the absolutely delightful reply from Jeremy Johnson:
+
 [![Midsummer Common message
 2-small](/images/Midsummer-Common-message-2-small-991x1024.png)](/images/Midsummer-Common-message-2-small.png)
 
