@@ -27,10 +27,12 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="/about.html">About me</a></p>
-        <p class="view"><a href="/blog">Blog</a></p>
-        <p class="view"><a href="/atom.xml">Feed</a></p>
-        <p class="view"><a href="{{ site.github.owner_url }}">My GitHub Profile</a></p>
+        <p class="view">
+          <a href="/about.html">About me</a><br>
+          <a href="/blog">Blog</a><br>
+          <a href="/atom.xml">Feed</a><br>
+          <a href="{{ site.github.owner_url }}">My GitHub Profile</a>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
