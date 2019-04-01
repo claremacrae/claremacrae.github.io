@@ -47,7 +47,7 @@ For understanding the Jekyll variables availble during build...
     "releases_url": "{{ site.github.releases_url }}",
     "issues_url": "{{ site.github.issues_url }}",
     "wiki_url": "{{ site.github.wiki_url }}",
-    "language": {{ site.github.language }},
+    "language": "{{ site.github.language }}",
     "is_user_page": {{ site.github.is_user_page }},
     "is_project_page": {{ site.github.is_project_page }},
     "show_downloads": {{ site.github.show_downloads }},
