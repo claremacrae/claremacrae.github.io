@@ -8,3 +8,8 @@ title: Welcome
 This will eventually be the new home of [http://www.claremacrae.co.uk/](http://www.claremacrae.co.uk/) - with added `https`.
 
 Nothing to see here yet, though - please come back later.
+
+* site.title: {{ site.title }}
+* site.github.is_user_page: {{ site.github.is_user_page }}
+* site.github.is_project_page: {{ site.github.is_project_page }}
+* site.github.zip_url: {{ site.github.zip_url }}
