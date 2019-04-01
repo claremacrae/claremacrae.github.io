@@ -6,6 +6,9 @@ permalink: /blog/:year/:month/:title
 title: Clare Macrae's Blog
 url: https://claremacrae.github.io/
 
+# Recommended by https://help.github.com/en/articles/repository-metadata-on-github-pages
+repository: claremacrae/claremacrae.github.io
+
 author:
   name:             Clare Macrae
   email:            
