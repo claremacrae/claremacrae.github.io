@@ -25,7 +25,7 @@ tags:
 
 This site was originally on commercially-hosted WordPress.
 
-Today I've moved it to github pages, in order to enable `https` for free, and to save having to keep applying Wordpress security updates.
+Today I've moved it to [github pages](https://pages.github.com/), in order to enable `https` for free, and to save having to keep applying Wordpress security updates.
 
 I'm looking forward to updating the site from my iPad, via the excellent [Working Copy iOS app](https://workingcopyapp.com/).
 
@@ -52,7 +52,7 @@ I then switched to installing Ruby on Windows.
 
 This still isn't perfect - Jekyll variables not being set correctly also [cost me a lot of time](https://github.com/claremacrae/claremacrae.github.io/issues/9), until I worked around it.
 
-But the big advantage of this approach is that I no longer have to keep updating to synchronise edits between Windows and WSL, so I have stuck with this approach.
+But the big advantage of this approach is that I no longer have to keep updating to synchronise edits between Windows and WSL, so I have stuck with it.
  
 ## <a name='References'></a>References
 
