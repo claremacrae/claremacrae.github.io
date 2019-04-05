@@ -3,7 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:title
 
 # Setup
-title: Clare Macrae's Blog
+title: Clare Macrae
 url: https://claremacrae.github.io/
 
 # Recommended by https://help.github.com/en/articles/repository-metadata-on-github-pages
