@@ -15,7 +15,7 @@ Implemented
 * [/2013/06/hello-world/](/2013/06/hello-world/)
 * [/about-me/](/about-me/)
 
-To implement, maybe
+Implemented, but only goes to blog index, as categories not yet implemented
 
 * [/category/humour/](/category/humour/)
 * [/category/raspberry-pi/](/category/raspberry-pi/)
