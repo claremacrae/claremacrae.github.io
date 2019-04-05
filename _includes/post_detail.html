@@ -7,8 +7,13 @@
 <div class="entry-content"><p>The latest post follows - see <a href="/blog">Blog</a> for more...</p></div>
 
 {% if post.title %}
+  <small>{{ post.date | date: "%-d %B %Y" }}</small>
   <h1 class="entry-title">
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
 {% endif %}
 <div class="entry-content">{{ content }}</div>
+
+{% if post.tags %}
+  <small>tags: <em>{{ post.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
