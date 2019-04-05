@@ -33,9 +33,9 @@ I'm looking forward to updating the site from my iPad, via the excellent [Workin
 
 My home machine is a Windows 10 PC, so I first tried testing the new site in WSL (Windows Subsystem for Linux).
 
-This seemed promising until I created a Gemfile and wanted to run `bundle install`. Try as I might, I could not get Norton Internet Security to allow rub inside WSL to download anything:
+This seemed promising, aside from Firefox on WSL being very unreliable, until I created a Gemfile and wanted to run `bundle install`. Try as I might, I could not get Norton Internet Security to allow rub inside WSL to download anything:
 
-```commandline
+```
 me@mypc:~/develop/claremacrae.github.io$ bundle install
 Fetching source index from https://rubygems.org/
 Retrying fetcher due to error (2/4): Bundler::HTTPError Could not fetch specs from https://rubygems.org/
@@ -44,7 +44,7 @@ Retrying fetcher due to error (4/4): Bundler::HTTPError Could not fetch specs fr
 Could not fetch specs from https://rubygems.org/
 ``` 
 
-Many other people had [seen this problem](https://www.google.co.uk/search?q=norton+firewall+blocking+ruby+in+wsl+ubuntu), and eventually I gave up.
+Many other people had [seen this problem](https://www.google.co.uk/search?q=norton+firewall+blocking+ruby+in+wsl+ubuntu), and eventually I gave up on WSL for this.
 
 ## <a name='TestingeditsonWindows'></a>Testing edits on Windows
 
