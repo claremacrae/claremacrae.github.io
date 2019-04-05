@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About me"
+redirect_from: "/about-me/"
 ---
 
 # About Me

@@ -4,6 +4,7 @@ title: "Stopping cows escaping from Midsummer Common - in 1995"
 date: 2014-05-10
 tags:
   - humour
+redirect_from: "/2014/05/stopping-cows-escaping-from-midsummer-common-in-1995/"
 ---
 
 The cows on Midsummer Common in Cambridge are now on Twitter: [**Daisy Bullocks**.](https://twitter.com/DaisyBullocks)

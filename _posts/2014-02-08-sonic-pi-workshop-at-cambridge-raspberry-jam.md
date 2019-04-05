@@ -5,6 +5,9 @@ date: 2014-02-08
 tags:
   - raspberry pi
   - sonic pi
+redirect_from:
+  - "/2014/02/sonic-pi-workshop-at-cambridge-raspberry-jam/"
+  - "/2014/02/sonic-pi-workship-at-cambridge-raspberry-jam/"
 ---
 
 
