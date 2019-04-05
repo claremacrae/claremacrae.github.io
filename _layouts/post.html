@@ -9,7 +9,14 @@ layout: default
 {{ page.date | date: "%-d %B %Y" }}<br>
 
 {% if page.tags %}
-  tags: <em>{{ page.tags | join: "</em> - <em>" }}</em><br>
+  tags:
+     {% for tag in page.tags %}
+         <a href="/blog/tags.html#{{ tag | slugify }}">{{ tag }}</a>
+        {% if forloop.last == false %}
+            |
+        {% endif %}
+     {% endfor %}
+  <br>
 {% endif %}
 
 <p></p>
