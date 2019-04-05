@@ -3,18 +3,9 @@ layout: default
 title: Welcome
 ---
 
-# Welcome to the future home of my website
-
-This will eventually be the new home of [http://www.claremacrae.co.uk/](http://www.claremacrae.co.uk/) - with added `https`.
-
-Nothing to see here yet, though - please come back later.
-
-Temporary list of pages, until I can bug #8
-
-<ul>
-<li><a href="/blog">Blog</a></li>
-<li><a href="/about.html">About me</a></li>
-<li><a href="/debug.html">Debug</a></li>
-<li><a href="/atom.xml">Feed</a></li>
-</ul>
- 
+<!-- From https://gist.github.com/nimbupani/1421828/733af8c41a7021a554df513a5cdcab5ca9facdf4 -->
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
