@@ -11,7 +11,7 @@ tags:
 
 <!-- vscode-markdown-toc -->
 * [Motivation](#Motivation)
-* [Testing edits it inside WSL](#TestingeditsitinsideWSL)
+* [Testing edits inside WSL](#TestingeditsinsideWSL)
 * [Testing edits on Windows](#TestingeditsonWindows)
 * [References](#References)
 
@@ -29,7 +29,7 @@ Today I've moved it to [github pages](https://pages.github.com/), in order to en
 
 I'm looking forward to updating the site from my iPad, via the excellent [Working Copy iOS app](https://workingcopyapp.com/).
 
-## <a name='TestingeditsitinsideWSL'></a>Testing edits it inside WSL
+## <a name='TestingeditsinsideWSL'></a>Testing edits inside WSL
 
 My home machine is a Windows 10 PC, so I first tried testing the new site in WSL (Windows Subsystem for Linux).
 
