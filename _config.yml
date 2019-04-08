@@ -20,15 +20,9 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-redirect-from
 
-#defaults:
-#  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "sidebar"
