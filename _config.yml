@@ -1,8 +1,6 @@
 name: Clare Macrae
 markdown: kramdown
 permalink: /blog/:year/:month/:title
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 
 # Setup
 title: Clare Macrae
@@ -15,14 +13,7 @@ author:
   name:             Clare Macrae
   email:            
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-redirect-from
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      sidebar:
-        nav: "sidebar"
