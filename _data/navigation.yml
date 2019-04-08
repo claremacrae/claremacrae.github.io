@@ -6,3 +6,5 @@ main:
     url: /blog/tags.html
   - title: "About"
     url: /about.html
+  - title: "Bio"
+    url: /conferences/bio.html

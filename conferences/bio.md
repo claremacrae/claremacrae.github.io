@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Conference Bio"
 ---
-
-# Clare Macrae Conference Bio
 
 Clare has worked in software development for over 30 years. She is a Principal Scientific Software Engineer at Cambridge Crystallographic Data Centre, which releases data and powerful software for scientific education, research, and streamlining the design and manufacture of new medicines.
 
