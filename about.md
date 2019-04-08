@@ -1,31 +1,14 @@
 ---
 layout: single
 title: "About me"
+toc: true
 redirect_from: "/about-me/"
 ---
 
 # About Me
 
 
-**Contents**
-
-<!-- vscode-markdown-toc -->
-* [My background](#Mybackground)
-* [Working life](#Workinglife)
-* [Scripting and automation](#Scriptingandautomation)
-* [Learning](#Learning)
-* [Interests](#Interests)
-* [Links](#Links)
-* [Scientific Publications](#ScientificPublications)
-* [Me on StackExchange](#MeonStackExchange)
-
-<!-- vscode-markdown-toc-config
-	numbering=false
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
-## <a name='Mybackground'></a>My background
+## My background
 
 This will date me, but my first programming experiences were working
 through [Donald Alcock’s Illustrating
@@ -47,7 +30,7 @@ from a brief 6-month stint in sales at [Oxford
 Molecular](http://www.isis-innovation.com/spinout/oxmol.html) in early
 1991, I’ve been a developer at CCDC ever since.
 
-## <a name='Workinglife'></a>Working life
+## Working life
 
 By day, I’m now a Principal Scientific Software Engineer at
 [CCDC](http://www.ccdc.cam.ac.uk/).
@@ -76,7 +59,7 @@ I remain very proud of our
 crystal structure visualisation program. I was the original, and then
 lead, developer of Mercury from 1999 until around 2010. In December 2018 I returned to working on Mercury.
 
-## <a name='Scriptingandautomation'></a>Scripting and automation
+## Scripting and automation
 
 I’m passionate about using computers to save time. This means I’ve
 contributed to CCDC’s software build and version control systems for
@@ -87,7 +70,7 @@ At work and at home,  I’m a keen user and advocate of the
 keystroke-saving tool [AutoHotKey](http://www.autohotkey.com/) and I
 dabble in Python.
 
-## <a name='Learning'></a>Learning
+## Learning
 
 I have attended a lot of evening talks organised by [Software
 East](http://softwareast.ning.com/) and I really appreciate their
@@ -109,7 +92,7 @@ Dropbox. On PCs, I use [MarkdownPad 2](http://markdownpad.com/)
 a slick way to transfer information from Twitter and RSS feeds into
 Markdown. Both these applications are highly recommended.
 
-## <a name='Interests'></a>Interests
+## Interests
 
 I love folk music, and am always on the lookout for good music, both
 locally and further afield.
@@ -130,7 +113,7 @@ Eben Upton’s inspiring keynote talk at the ACCU conference in Bristol.
 I’m keen to support local educational computing projects, especially
 ones involving the Raspberry Pi.
 
-## <a name='Links'></a>Links
+## Links
 
 * [My profile at CCDC](http://www.ccdc.cam.ac.uk/CCDC/SeniorManagement/pages/Profile.aspx?profileid=4)
 * [My account on github](https://github.com/claremacrae)
@@ -138,13 +121,13 @@ ones involving the Raspberry Pi.
 * [Linkedin](https://www.linkedin.com/in/claremacrae)
 * [YouTube](http://www.youtube.com/channel/UCNxLq_HrqajGIvPMR63R64A/videos?flow=grid&view=0)
 
-## <a name='ScientificPublications'></a>Scientific Publications
+## Scientific Publications
 
 * [ORCID](http://orcid.org/0000-0003-3664-8645)
 * [Google Scholar Profile](http://scholar.google.co.uk/citations?user=CNekj-gAAAAJ)
 * [Scopus Author ID: 8103868000](http://www.scopus.com/authid/detail.url?authorId=8103868000)
 
-## <a name='MeonStackExchange'></a>Me on StackExchange
+## Me on StackExchange
 
 [![profile for Clare Macrae on Stack Exchange, a network of free,
 community-driven Q&A
