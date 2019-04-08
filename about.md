@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "About me"
+title: "About Me"
 toc: true
 redirect_from: "/about-me/"
 ---
-
-# About Me
-
 
 ## My background
 
