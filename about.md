@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "About me"
 redirect_from: "/about-me/"
 ---
