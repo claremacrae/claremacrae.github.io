@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Posts"
+    url: /blog/
+  - title: "Tags"
+    url: /blog/tags.html
+  - title: "About"
+    url: /about.html
