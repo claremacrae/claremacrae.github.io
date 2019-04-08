@@ -1,27 +1,13 @@
 ---
 layout: posts
 title: "Site ported to github pages"
+toc: true
 date: 2019-04-05
 tags:
   - hosting
 ---
 
-
-**Contents**
-
-<!-- vscode-markdown-toc -->
-* [Motivation](#Motivation)
-* [Testing edits inside WSL](#TestingeditsinsideWSL)
-* [Testing edits on Windows](#TestingeditsonWindows)
-* [References](#References)
-
-<!-- vscode-markdown-toc-config
-	numbering=false
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
-## <a name='Motivation'></a>Motivation
+## Motivation
 
 This site was originally on commercially-hosted WordPress.
 
@@ -29,7 +15,7 @@ Today I've moved it to [github pages](https://pages.github.com/), in order to en
 
 I'm looking forward to updating the site from my iPad, via the excellent [Working Copy iOS app](https://workingcopyapp.com/).
 
-## <a name='TestingeditsinsideWSL'></a>Testing edits inside WSL
+## Testing edits inside WSL
 
 My home machine is a Windows 10 PC, so I first tried testing the new site in WSL (Windows Subsystem for Linux).
 
@@ -46,7 +32,7 @@ Could not fetch specs from https://rubygems.org/
 
 Many other people had [seen this problem](https://www.google.co.uk/search?q=norton+firewall+blocking+ruby+in+wsl+ubuntu), and eventually I gave up on WSL for this.
 
-## <a name='TestingeditsonWindows'></a>Testing edits on Windows
+## Testing edits on Windows
 
 I then switched to installing Ruby on Windows.
 
@@ -54,7 +40,7 @@ This still isn't perfect - Jekyll variables not being set correctly also [cost m
 
 But the big advantage of this approach is that I no longer have to keep updating to synchronise edits between Windows and WSL, so I have stuck with it.
  
-## <a name='References'></a>References
+## References
 
 The following pages helped this process:
 
