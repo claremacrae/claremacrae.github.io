@@ -13,7 +13,16 @@ author:
   name:             Clare Macrae
   email:            
 
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-include-cache
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "sidebar"
