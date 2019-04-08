@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Site ported to github pages"
 date: 2019-04-05
 tags:

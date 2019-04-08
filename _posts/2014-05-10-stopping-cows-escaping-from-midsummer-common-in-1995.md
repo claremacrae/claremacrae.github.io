@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Stopping cows escaping from Midsummer Common - in 1995"
 date: 2014-05-10
 tags:
