@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Site ported to github pages"
 toc: true
 date: 2019-04-05

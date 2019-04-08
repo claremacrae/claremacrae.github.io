@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Sonic Pi workshop at Cambridge Raspberry Jam"
 date: 2014-02-08
 tags:
