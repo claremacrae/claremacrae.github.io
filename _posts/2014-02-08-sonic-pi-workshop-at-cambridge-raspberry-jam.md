@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title: "Sonic Pi workshop at Cambridge Raspberry Jam"
+excerpt: Volunteering on a Sonic Pi workshop at Cambridge Raspberry Jam.
 date: 2014-02-08
 tags:
   - raspberry pi
@@ -13,7 +14,7 @@ redirect_from:
 
 I had so much fun this morning at a Cambridge Raspberry Jam programming
 workshop for kids that it seemed a fitting subject for my first blog
-post…
+post...
 
 [Carrie Anne Philbin](https://twitter.com/MissPhilbin) ran a
 music-making workshop for 32 school kids, using the
