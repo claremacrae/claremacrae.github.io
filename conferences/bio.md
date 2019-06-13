@@ -3,7 +3,7 @@ layout: single
 title: "Conference Bio"
 ---
 
-Clare is an independent consultant, helping developers more easily work with legacy C++ and Qt code. She has worked in software development for over 30 years. 
+Clare is an independent consultant, helping developers work more easily with legacy C++ and Qt code. She has worked in software development for over 30 years. 
 
 Since 2017, Clare has used her spare time to work remotely with Llewellyn Falco on [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp), to radically simplify testing of legacy code.
 
