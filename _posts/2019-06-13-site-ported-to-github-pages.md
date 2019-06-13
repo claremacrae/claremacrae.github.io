@@ -3,7 +3,7 @@ layout: single
 title: "Site ported to github pages"
 excerpt: How I moved this site from WordPress to github pages.
 toc: true
-date: 2019-04-05
+date: 2019-06-13
 tags:
   - hosting
 ---
