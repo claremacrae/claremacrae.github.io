@@ -6,7 +6,8 @@ paginate_path: /page:num/
 
 # Setup
 title: Clare Macrae
-url: https://claremacrae.github.io/
+url: https://claremacrae.co.uk/
+enforce_ssl: claremacrae.co.uk
 
 # Recommended by https://help.github.com/en/articles/repository-metadata-on-github-pages
 repository: claremacrae/claremacrae.github.io
