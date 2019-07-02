@@ -8,5 +8,9 @@
 $intro-transition  : none;
 $global-transition : none;
 
+// Customise some colours in _contrast.scss
+$primary-color: #5b2c6f !default;
+$link-color: $primary-color !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

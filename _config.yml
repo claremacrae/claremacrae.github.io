@@ -18,6 +18,7 @@ author:
   email:            
 
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+# See also some customising of colours from this skin in assets/css/main.scss
 minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
