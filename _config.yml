@@ -1,3 +1,4 @@
+# For options, see https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 name: Clare Macrae
 markdown: kramdown
 permalink: /blog/:year/:month/:title
@@ -17,6 +18,7 @@ author:
   email:            
 
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-redirect-from
