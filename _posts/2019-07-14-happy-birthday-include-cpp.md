@@ -11,3 +11,5 @@ tags:
 
 ## #include<cpp>
 
+Kate Gregory has written an excellent summary of the first two years of #include<C++>:  [Happy-One-of-our-birthdays, Include](http://www.gregcons.com/KateBlog/HappyOneofourbirthdaysInclude.aspx)
+
