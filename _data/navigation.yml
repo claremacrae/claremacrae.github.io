@@ -24,5 +24,7 @@ sidebar:
         url: /blog/tags.html
   - title: Conferences
     children:
+      - title: "Presentations"
+        url: /conferences/presentations.html
       - title: "Bio"
         url: /conferences/bio.html
