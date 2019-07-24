@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Forthcoming Talks"
-excerpt:   
+title: "Forthcoming Talks in 2019"
+excerpt: New and updated talks, and a page for Presentations 
 toc: false
 date: 2019-07-24
 tags:
@@ -18,6 +18,7 @@ I'm delighted to announce I'll be speaking at these events later this year:
 | 2019-09-16 | CppCon 2019 Conference, Aurora, CO, USA |  [Quickly Testing Legacy C++ Code with Approval Tests](https://cppcon2019.sched.com/event/Sfdj/quickly-testing-legacy-c-code-with-approval-tests) |
 | 2019-11-15 | Meeting C++ 2019, Berlin, Germany | Quickly Testing Qt Desktop Applications |
 
+The first two are significant updates to previous talks, and the third one is a brand new talk. 
 
 I've started a [Presentations](/conferences/presentations.html) page to keep track of my talks - past and future.
 
