@@ -6,7 +6,7 @@ title: "Presentations"
 
 ## Upcoming
 
-| Date  | Conference | Title and Abstract |
+| Date  | Event | Title and Abstract |
 | - | - | - |
 | **2019** | &nbsp; | &nbsp; |
 | 2019-09-04 | [ACCU Cambridge, UK](https://www.meetup.com/ACCU-Cambridge/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://www.meetup.com/ACCU-Cambridge/events/262761572/) |
@@ -15,7 +15,7 @@ title: "Presentations"
 
 ## Completed
 
-| Date  | Conference | Title and Abstract | Slides  | Video | Code |
+| Date  | Event | Title and Abstract | Slides  | Video | Code |
 | - | - | - | - | - | - |
 | **2019** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | 2019-06-15 | [CPPP 2019, Paris, France](https://cppp.fr/) | [Quickly Testing Legacy Code](https://cppp.fr/index.php?L=0&id=20#talk.ClareMacrae) | [PPT](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-cpppfr-2019-clare-macrae)/[PDF](https://github.com/cppp-france/CPPP-19/tree/master/quickly_testing_legacy_code-Clare_Macrae) | &nbsp; | [Github](https://github.com/claremacrae/cppp2019) |

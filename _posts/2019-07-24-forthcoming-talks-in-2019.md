@@ -11,7 +11,7 @@ tags:
 
 I'm delighted to announce I'll be speaking at these events later this year:
 
-| Date  | Conference | Title and Abstract |
+| Date  | Event | Title and Abstract |
 | - | - | - |
 | **2019** | &nbsp; | &nbsp; |
 | 2019-09-04 | [ACCU Cambridge, UK](https://www.meetup.com/ACCU-Cambridge/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://www.meetup.com/ACCU-Cambridge/events/262761572/) |
