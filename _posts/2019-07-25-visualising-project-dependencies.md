@@ -14,5 +14,7 @@ I've written up **[two approaches I've used to visualise the dependencies](https
 
 [![](/images/project_dependencies/all-targets.png)](https://github.com/claremacrae/project_dependencies_viz#top)
 
+You can view the example files for the first approach [here](/images/project_dependencies/all-targets.svg).
+
 (This started off as a short answer to a question this morning on the [#include <C++> Discord server](https://www.includecpp.org/) - and then it kind of grew!)
 
