@@ -17,6 +17,22 @@ author:
   name:             Clare Macrae
   email:            
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ClareMacraeUK"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/claremacrae"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/claremacrae/"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/104370/clare-macrae"
+
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 # See also some customising of colours from this skin in assets/css/main.scss
 minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
