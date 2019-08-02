@@ -20,16 +20,16 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ClareMacraeUK"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/claremacrae"
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/claremacrae/"
-    - label: "Stackoverflow"
+    - label: ""
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/104370/clare-macrae"
 
