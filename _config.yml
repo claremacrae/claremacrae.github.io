@@ -2,7 +2,7 @@
 name: Clare Macrae
 markdown: kramdown
 permalink: /blog/:year/:month/:title
-paginate: 4 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
 # Setup
