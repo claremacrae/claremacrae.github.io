@@ -4,7 +4,7 @@ title: "Background"
 toc: true
 ---
 
-## My background
+## Early Days
 
 This will date me, but my first programming experiences were working
 through [Donald Alcock’s Illustrating
@@ -67,11 +67,7 @@ dabble in Python.
 
 ## Learning
 
-I have attended a lot of evening talks organised by [Software
-East](http://softwareast.ning.com/) and I really appreciate their
-support of the Cambridge software development community. I’ve also
-enjoyed the rare occasions I’ve been able to go to [Skills
-Matter](https://skillsmatter.com/) events in London.
+Over the years, I've attended many evening technical talks in Cambridge and London.
 
 A particular focus in recent years has been learning about
 [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) and
@@ -85,7 +81,7 @@ Dropbox. On PCs, I use [MarkdownPad 2](http://markdownpad.com/)
 [Editorial](http://omz-software.com/editorial/) – where various customised
 [actions](http://omz-software.com/editorial/docs/ios_workflows/reference.html) provide
 a slick way to transfer information from Twitter and RSS feeds into
-Markdown. Both these applications are highly recommended.
+Markdown. Both these applications are highly recommended, though sadly neither appears be maintained any more.
 
 ## Interests
 
