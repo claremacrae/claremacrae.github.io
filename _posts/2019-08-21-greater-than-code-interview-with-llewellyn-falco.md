@@ -8,6 +8,7 @@ tags:
   - approval tests
   - c++
   - documentation
+  - interview
   - legacy code
   - podcasts
   - remote pairing
