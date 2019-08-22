@@ -16,6 +16,8 @@ sidebar:
         url: /
       - title: "About"
         url: /about.html
+      - title: "Background"
+        url: /background.html
   - title: Blog
     children:
       - title: "Posts"
