@@ -12,6 +12,6 @@ tags:
   - legacy code
 ---
 
-On 2018-06-23, Kevin Carpenter interviewed me about my upcoming talk at this year's CppCon.
+On 2019-06-23, Kevin Carpenter interviewed me about my upcoming talk at this year's CppCon.
 
 See [the 5 minute recording](https://www.youtube.com/watch?v=R18rvcwS8VE&feature=youtu.be).

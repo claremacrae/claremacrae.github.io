@@ -14,7 +14,7 @@ tags:
   - remote pairing
 ---
 
-On 2018-06-19, Llewellyn Falco and I were interviewed for the Greater Than Code podcast.
+On 2019-06-19, Llewellyn Falco and I were interviewed for the Greater Than Code podcast.
 
 We talked about what we'd learned whilst remote-pairing for nearly 2 years, and what we've learned from writing documentation for an open source library.
 

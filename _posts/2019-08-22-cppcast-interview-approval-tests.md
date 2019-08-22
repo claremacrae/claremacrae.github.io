@@ -12,7 +12,7 @@ tags:
   - podcasts
 ---
 
-On 2018-07-24 I was interviewed by Rob and Jason for the CppCast Podcast. I really enjoyed the whole process.
+On 2019-07-24 I was interviewed by Rob and Jason for the CppCast Podcast. I really enjoyed the whole process.
 
 For more info and to listen to the recording, see [the episode and shownotes](https://cppcast.com/clare-macrae/).
 
