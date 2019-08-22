@@ -13,6 +13,8 @@ My mission: **Sustainable and efficient testing and refactoring of legacy code!*
 
 I've worked in software development for over 30 years, and in C++ for over 20 years.
 
+## Further Information
+
 For more information about my earlier career, interests and scientific publications, see [Background](/background.html).
 
 ## Links
