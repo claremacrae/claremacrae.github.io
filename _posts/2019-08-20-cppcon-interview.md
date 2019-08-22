@@ -7,6 +7,7 @@ date: 2019-08-20
 tags:
   - approval tests
   - c++
+  - conferences
   - interview
   - legacy code
 ---
