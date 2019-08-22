@@ -25,14 +25,22 @@ From there, in 1987 I got a job as a junior programmer at [Cambridge
 Crystallographic Data Centre](http://www.ccdc.cam.ac.uk/) (CCDC). Apart
 from a brief 6-month stint in sales at [Oxford
 Molecular](http://www.isis-innovation.com/spinout/oxmol.html) in early
-1991, I’ve been a developer at CCDC ever since.
+1991, I was a developer at CCDC until June 2019.
 
-## Working life
+## Clare Macrae Consulting Ltd
 
-By day, I’m now a Principal Scientific Software Engineer at
+I am an independent consultant, helping teams streamline their work with legacy and hard-to-test C++ and Qt code.
+
+My mission: **Sustainable and efficient testing and refactoring of legacy code!**
+
+I've worked in software development for over 30 years, and in C++ for over 20 years.
+
+## Former Working life
+
+Until June 2019, I was a Principal Scientific Software Engineer at
 [CCDC](http://www.ccdc.cam.ac.uk/).
 
-Recent projects have included:
+Recent projects included:
 
 * leading the team responsible for
 delivering
@@ -41,17 +49,17 @@ delivering
 * implementing the [Polyhedral display style in Mercury](https://www.ccdc.cam.ac.uk/Community/blog/greater-structural-insight-and-clearer-visualisation/). 
 
 
-Our continued adoption of [Agile software development
+CCDC's continued adoption of [Agile software development
 practices](http://agilemanifesto.org/) played a significant part in our
 ability to deliver CSD-Xpedite. (I say “continued adoption” of Agile, as
 I don’t believe it’s a state ever achieved, but more a continuous
 journey of improvement.)
 
-When I’m programming there, it’s mainly in C++ and Qt.
+When I was programming there, it was mainly in C++ and Qt.
 
 With the replacement of ASER in our releases in late 2018, we archived more than three decades worth of FORTRAN 77 code, so that's a skill that I no longer use.
 
-I remain very proud of our
+I remain very proud of the CCDC's
 [Mercury](http://www.ccdc.cam.ac.uk/Solutions/CSDSystem/Pages/Mercury.aspx)
 crystal structure visualisation program. I was the original, and then
 lead, developer of Mercury from 1999 until around 2010. In December 2018 I returned to working on Mercury.
@@ -112,7 +120,6 @@ ones involving the Raspberry Pi.
 
 ## Links
 
-* [My profile at CCDC](http://www.ccdc.cam.ac.uk/CCDC/SeniorManagement/pages/Profile.aspx?profileid=4)
 * [My account on github](https://github.com/claremacrae)
 * [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
 * [Linkedin](https://www.linkedin.com/in/claremacrae)
