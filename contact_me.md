@@ -6,7 +6,7 @@ title: "Contact Me"
 
 ## Email
 
-Contact me at: <clare@claremacrae.co.uk>.
+Contact me at: <clare@claremacrae.co.uk>
 
 ## Elsewhere
 
