@@ -4,10 +4,10 @@ toc: true
 title: "Hire Me"
 ---
 
-## Hire Me
+## Clare Macrae Consulting Ltd
 
-I am an independent consultant, helping teams work sustainably and efficiently to test and refactor legacy and hard-to-test C++ code.
+I am an independent consultant, helping teams streamline their work with legacy and hard-to-test C++ and Qt code.
 
-I've worked in software development for over 30 years, and in C++ and Qt for 20 years, and have lots of useful, practical experience to share.
+My mission: **Sustainable and efficient testing and refactoring of legacy code!**
 
 Contact me at: <clare@claremacrae.co.uk>
