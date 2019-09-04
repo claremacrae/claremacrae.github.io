@@ -10,4 +10,4 @@ I am an independent consultant, helping teams work sustainably and efficiently t
 
 I've worked in software development for over 30 years, and in C++ and Qt for 20 years, and have lots of useful, practical experience to share.
 
-Contact me at: clare@claremacrae.co.uk.
+Contact me at: <clare@claremacrae.co.uk>
