@@ -2,10 +2,10 @@
 main:
   - title: "Posts"
     url: /blog/
-  - title: "Tags"
-    url: /blog/tags.html
-  - title: "About"
-    url: /about.html
+  - title: "Contact"
+    url: /contact_me.html
+  - title: "Hire Me"
+    url: /consulting/hire_me.html
   - title: "Bio"
     url: /conferences/bio.html
 
