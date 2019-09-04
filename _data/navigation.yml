@@ -16,8 +16,8 @@ sidebar:
         url: /
       - title: "Contact Me"
         url: /contact_me.html
-      - title: "Background"
-        url: /background.html
+#      - title: "Background"
+#        url: /background.html
   - title: Consulting
     children:
       - title: "Hire Me"
