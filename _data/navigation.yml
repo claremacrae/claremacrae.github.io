@@ -14,10 +14,16 @@ sidebar:
     children:
       - title: "Home"
         url: /
+      - title: "Contact Me"
+        url: /contact_me.html
       - title: "About"
         url: /about.html
       - title: "Background"
         url: /background.html
+  - title: Consulting
+    children:
+      - title: "Hire Me"
+        url: /consulting/hire_me.html
   - title: Blog
     children:
       - title: "Posts"
