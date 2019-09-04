@@ -10,4 +10,4 @@ I am an independent consultant, helping teams streamline their work with legacy 
 
 My mission: **Sustainable and efficient testing and refactoring of legacy code!**
 
-Contact me at: <clare@claremacrae.co.uk>
+Please [contact me](/contact_me.html) to talk about ways I can help your teams.
