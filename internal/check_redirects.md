@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Debug Page
+title: Check Redirects
 ---
 
-# Redirects
+# Check Redirects
 
-For checking URLs which have changed since the site was on Wordpress
+For checking URLs which have changed since the site was on Wordpress, or subsequently.
 
 Implemented
 
