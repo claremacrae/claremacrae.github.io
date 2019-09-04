@@ -2,6 +2,9 @@
 layout: single
 title: "Background"
 toc: true
+redirect_from:
+  - "/about-me/"
+  - "/about.html"
 ---
 
 ## Early Days

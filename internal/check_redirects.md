@@ -14,6 +14,7 @@ Implemented
 * [/2014/02/sonic-pi-workship-at-cambridge-raspberry-jam/](/2014/02/sonic-pi-workship-at-cambridge-raspberry-jam/)
 * [/2013/06/hello-world/](/2013/06/hello-world/)
 * [/about-me/](/about-me/)
+* [/about.html](/about.html)
 
 Implemented, but only goes to blog index, as categories not yet implemented
 
