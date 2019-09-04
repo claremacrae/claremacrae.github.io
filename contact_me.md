@@ -10,9 +10,9 @@ Contact me at: <clare@claremacrae.co.uk>.
 
 ## Elsewhere
 
-* [My account on github](https://github.com/claremacrae)
-* [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
 * [Linkedin](https://www.linkedin.com/in/claremacrae)
+* [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
+* [GitHub](https://github.com/claremacrae)
 * [YouTube](http://www.youtube.com/channel/UCNxLq_HrqajGIvPMR63R64A/videos?flow=grid&view=0)
 
 ## StackExchange
