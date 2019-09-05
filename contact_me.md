@@ -13,6 +13,7 @@ Contact me at: <clare@claremacrae.co.uk>
 * [Linkedin](https://www.linkedin.com/in/claremacrae)
 * [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
 * [GitHub](https://github.com/claremacrae)
+* [SlideShare](https://www.slideshare.net/ClareMacrae)
 * [YouTube](http://www.youtube.com/channel/UCNxLq_HrqajGIvPMR63R64A/videos?flow=grid&view=0)
 
 ## StackExchange
