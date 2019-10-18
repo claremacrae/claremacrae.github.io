@@ -9,6 +9,7 @@ title: "Presentations"
 | Date  | Event | Title and Abstract |
 | - | - | - |
 | **2019** | &nbsp; | &nbsp; |
+| 2019-11-21 | [C++ London](https://www.meetup.com/CppLondon/) | [C++ Testing Techniques, Tips and Tricks](https://www.meetup.com/CppLondon/events/265146936/) |
 | 2019-11-15 | [Meeting C++ 2019, Berlin, Germany](https://meetingcpp.com/2019/) | [Quickly Testing Qt Desktop Applications](https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html) |
 
 ## Completed
