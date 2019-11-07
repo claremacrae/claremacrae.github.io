@@ -14,7 +14,7 @@ title: "Presentations"
 
 ## Completed
 
-See also an [evolving list of references for my talks](https://github.com/claremacrae/talks).
+See also ["Resources and references for my talks"](https://github.com/claremacrae/talks).
 
 | Date  | Event | Title and Abstract | Slides  | Video | Code |
 | - | - | - | - | - | - |
