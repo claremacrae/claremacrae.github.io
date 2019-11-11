@@ -9,8 +9,8 @@ title: "Presentations"
 | Date  | Event | Title and Abstract |
 | - | - | - |
 | **2020** | &nbsp; | &nbsp; |
-| 2020-06-11 | [Craft](https://craft-conf.com) | &nbsp; |
-| 2020-02-25 | [Cpp Europe 2020](https://cppeurope.com) | &nbsp; |
+| 2020-06-11 | [Craft](https://craft-conf.com) | TBC |
+| 2020-02-25 | [Cpp Europe 2020](https://cppeurope.com) | TBC |
 | **2019** | &nbsp; | &nbsp; |
 | 2019-11-21 | [C++ London, UK](https://www.meetup.com/CppLondon/) | [C++ Testing Techniques, Tips and Tricks](https://www.meetup.com/CppLondon/events/265146936/) |
 | 2019-11-15 | [Meeting C++ 2019, Berlin, Germany](https://meetingcpp.com/2019/) | [Quickly Testing Qt Desktop Applications](https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html) |
