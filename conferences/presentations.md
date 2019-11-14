@@ -18,10 +18,10 @@ title: "Presentations"
 
 See also ["Resources and references for my talks"](https://github.com/claremacrae/talks).
 
-| Date  | Event | Title and Abstract | Slides  | Video | Code |
+| Date  | Event | Title and Abstract | Slides  | Video | Code / Resources |
 | - | - | - | - | - | - |
 | **2019** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 2019-11-15 | [Meeting C++ 2019, Berlin, Germany](https://meetingcpp.com/2019/) | [Quickly Testing Qt Desktop Applications](https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html) | &nbsp; | &nbsp; | &nbsp; |
+| 2019-11-15 | [Meeting C++ 2019, Berlin, Germany](https://meetingcpp.com/2019/) | [Quickly Testing Qt Desktop Applications](https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html) | &nbsp; | &nbsp; | [Resources](https://github.com/claremacrae/talks/blob/master/Quickly_Testing_Qt_Desktop_Applications.md#top) |
 | 2019-09-18 | [CppCon 2019 Conference, Aurora, CO, USA](https://cppcon.org/) | Code Samples that Actually Compile |  [PPT](https://www.slideshare.net/ClareMacrae/code-samples-that-actually-compile-clare-macrae-179736904)/[PDF](https://github.com/CppCon/CppCon2019/raw/master/Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) | &nbsp; | &nbsp; |
 | 2019-09-16 | [CppCon 2019 Conference, Aurora, CO, USA](https://cppcon.org/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://cppcon2019.sched.com/event/Sfdj/quickly-testing-legacy-c-code-with-approval-tests) | [PPT](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-c-code-with-approval-tests)/[PDF](https://github.com/CppCon/CppCon2019/tree/master/Presentations/quickly_testing_legacy_cpp_code_with_approval_tests) | [Video](https://www.youtube.com/watch?v=3GZHvcdq32s) | [GitHub](https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-cppcon) |
 | 2019-09-04 | [ACCU Cambridge, UK](https://www.meetup.com/ACCU-Cambridge/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://www.meetup.com/ACCU-Cambridge/events/262761572/) | [PPT](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-cpp-code-accu-cam-2019) | &nbsp; | [GitHub](https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-accu-cambridge) |
