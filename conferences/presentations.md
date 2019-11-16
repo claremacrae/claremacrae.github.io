@@ -10,7 +10,7 @@ title: "Presentations"
 | - | - | - |
 | **2020** | &nbsp; | &nbsp; |
 | 2020-06-11 | [Craft](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
-| 2020-02-25 | [Cpp Europe 2020](https://cppeurope.com) | TBC |
+| 2020-02-25 | [Cpp Europe 2020](https://cppeurope.com) | [C++ Testing Techniques, Tips and Tricks](https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/) |
 | **2019** | &nbsp; | &nbsp; |
 | 2019-11-21 | [C++ London, UK](https://www.meetup.com/CppLondon/) | [C++ Testing Techniques, Tips and Tricks](https://www.meetup.com/CppLondon/events/265146936/) |
 
