@@ -2,6 +2,7 @@
 layout: single
 toc: false
 title: "Presentations"
+classes: wide
 ---
 
 ## Upcoming
