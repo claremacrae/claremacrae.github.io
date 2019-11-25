@@ -28,6 +28,8 @@ sidebar:
         url: /blog/
       - title: "Tags"
         url: /blog/tags.html
+      - title: "Feed"
+        url: /feed.xml
   - title: Conferences
     children:
       - title: "Presentations"
