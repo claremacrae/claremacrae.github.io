@@ -8,7 +8,7 @@ classes: wide
 ## Upcoming
 
 | Date  | Event | Title and Abstract |
-| - | - | - |
+| ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-nowrap">2020-06-11</span> | [Craft](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
 | <span class="text-nowrap">2020-02-25</span> | [Cpp Europe 2020](https://cppeurope.com) | [C++ Testing Techniques, Tips and Tricks](https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/) |
@@ -18,7 +18,7 @@ classes: wide
 See also ["Resources and references for my talks"](https://github.com/claremacrae/talks).
 
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
-| - | - | - | - | - | - |
+| ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2019** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | <span class="text-nowrap">2019-11-21</span> | [C++ London, UK](https://www.meetup.com/CppLondon/) | [C++ Testing Techniques, Tips and Tricks](https://www.meetup.com/CppLondon/events/265146936/) | [PPT](https://www.slideshare.net/ClareMacrae/c-testing-techniques-tips-and-tricks-c-london) | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/master/Cpp_Testing_Techniques_Tips_and_Tricks.md#top) |
 | <span class="text-nowrap">2019-11-15</span> | [Meeting C++ 2019, Berlin, Germany](https://meetingcpp.com/2019/) | [Quickly Testing Qt Desktop Applications](https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html) | [PPT](https://www.slideshare.net/ClareMacrae/quickly-testing-qt-desktop-applications) | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/master/Quickly_Testing_Qt_Desktop_Applications.md#top) |
