@@ -10,6 +10,8 @@ title: Clare Macrae
 url: https://claremacrae.co.uk/
 enforce_ssl: claremacrae.co.uk
 
+lang: en
+
 # Recommended by https://help.github.com/en/articles/repository-metadata-on-github-pages
 repository: claremacrae/claremacrae.github.io
 
