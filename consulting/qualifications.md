@@ -6,7 +6,7 @@ toc: true
 
 In all my roles as developer, manager, scrum-master, product owner, and team lead, I have been most motivated by shipping software - releasing new, effective capabilities to users of the software I worked on. I’ve always been a keen advocate for more effective, sustainable development practices, whatever I have worked on.
 
-## Background
+## Education
 
 * University of Oxford Chemistry degree, with computational chemistry research project.
 
@@ -21,10 +21,10 @@ In all my roles as developer, manager, scrum-master, product owner, and team lea
 
 ## Expertise
 
-* Strong knowledge of the full software development life cycle for large C++ and Qt applications
+* Excellent knowledge of the full software development life cycle for large C++ and Qt applications
 * Particular expertise in testing and maintaining C++ code, especially legacy code.
-* Good knowledge of principles of software build systems, and have written, and worked on, a variety of these systems.
-* I was a reviewer on “Software Design X-Rays” by Adam Tornhill (author of “Your Code as a Crime Scene”)
+* Excellent knowledge of principles of software build systems, and have written, and worked on, a variety of these systems.
+* Reviewed a number of techical books, including "Software Design X-Rays" by Adam Tornhill (author of "Your Code as a Crime Scene")
 
 ## Currently
 
