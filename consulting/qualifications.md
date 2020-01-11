@@ -4,6 +4,8 @@ title: "Qualifications"
 toc: true
 ---
 
+Excellent knowledge of the full software development life cycle for large C++ and Qt applications, with particular expertise in testing and maintaining large C++ code bases, especially legacy code.
+
 In all my roles as developer, manager, scrum-master, product owner, and team lead, I have been most motivated by shipping software - releasing new, effective capabilities to users of the software I worked on. I’ve always been a keen advocate for more effective, sustainable development practices, whatever I have worked on.
 
 ## Education
@@ -13,7 +15,7 @@ In all my roles as developer, manager, scrum-master, product owner, and team lea
 ## Currently
 
 * Independent consultant, helping teams streamline their work with legacy and hard-to-test C++ and Qt code.
-* I am a force-multiplier, always looking for ways to help teams find time and work-saving short-cuts in their work.
+* I am a force-multiplier, always looking for ways to help teams find time- and work-saving short-cuts in their work, whilst learning and improving quality.
 * I share experience and learning from past transformations of leading teams in removing decades old code and data formats.
 * Now a regular C++ conference speaker, presenting on testing legacy code with Approval Tests, and general good practices with testing.
 * When not consulting, I now focus on contributing to open source C++ testing frameworks.
