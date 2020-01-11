@@ -14,7 +14,7 @@ In all my roles as developer, manager, scrum-master, product owner, and team lea
 
 * Independent consultant, helping teams streamline their work with legacy and hard-to-test C++ and Qt code.
 * I am a force-multiplier, always looking for ways to help teams find time and work-saving short-cuts in their work.
-* I share experience and learnings from past transformations of leading teams in removing decades old code and data formats.
+* I share experience and learning from past transformations of leading teams in removing decades old code and data formats.
 * Now a regular C++ conference speaker, presenting on testing legacy code with Approval Tests, and general good practices with testing.
 * When not consulting, I now focus on contributing to open source C++ testing frameworks.
 * Strong network of contacts in the C++ community. Have been attending C++ conferences for many years, and one of the core founders of [#include <C++>](https://www.includecpp.org/).
@@ -24,7 +24,7 @@ In all my roles as developer, manager, scrum-master, product owner, and team lea
 * Excellent knowledge of the full software development life cycle for large C++ and Qt applications
 * Particular expertise in testing and maintaining C++ code, especially legacy code.
 * Excellent knowledge of principles of software build systems, and have written, and worked on, a variety of these systems.
-* Reviewed a number of techical books, including "Software Design X-Rays" by Adam Tornhill (author of "Your Code as a Crime Scene")
+* Reviewed a number of technical books, including "Software Design X-Rays" by Adam Tornhill (author of "Your Code as a Crime Scene")
 
 ## Experience
 
