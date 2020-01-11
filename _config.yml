@@ -11,6 +11,19 @@ url: https://claremacrae.co.uk/
 enforce_ssl: claremacrae.co.uk
 
 lang: en
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
+  - .idea/
+  - jekyll-whiteglass.gemspec
+  - screenshot.png
+  - serve_locally.bat
+  - serve_locally.sh
+  - vendor
 
 # Recommended by https://help.github.com/en/articles/repository-metadata-on-github-pages
 repository: claremacrae/claremacrae.github.io
