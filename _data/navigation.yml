@@ -22,6 +22,8 @@ sidebar:
     children:
       - title: "Hire Me"
         url: /consulting/hire_me.html
+      - title: "Qualifications"
+        url: /consulting/qualifications.html
   - title: Blog
     children:
       - title: "Posts"
