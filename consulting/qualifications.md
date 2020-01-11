@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Qualifications"
+toc: true
 ---
 
 In all my roles as developer, manager, scrum-master, product owner, and team lead, I have been most motivated by shipping software - releasing new, effective capabilities to users of the software I worked on. I’ve always been a keen advocate for more effective, sustainable development practices, whatever I have worked on.
