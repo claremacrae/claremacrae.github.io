@@ -11,7 +11,7 @@ classes: wide
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-nowrap">2020-06-11</span> | [Craft](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
-| <span class="text-nowrap">2020-03-25...28</span> | [ACCU 2020](https://conference.accu.org/) | Quickly Testing Legacy C++ Code with Approval Tests |
+| <span class="text-nowrap">2020-03-26</span> | [ACCU 2020](https://conference.accu.org/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8453.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
 | <span class="text-nowrap">2020-03-14</span> | [QtDay 2020](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/session/202739) |
 | <span class="text-nowrap">2020-02-25</span> | [Cpp Europe 2020](https://cppeurope.com) | [C++ Testing Techniques, Tips and Tricks](https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/) |
 
