@@ -15,7 +15,8 @@ classes: wide
 | <span class="text-nowrap">2020-06-07</span> | [C++ on Sea, Folkstone, UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
 | <span class="text-nowrap">2020-05-05</span> | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | &nbsp; |
 | <span class="text-nowrap">2020-03-26</span> | [ACCU 2020, Bristol, UK](https://conference.accu.org/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8453.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
-| <span class="text-nowrap">2020-03-14</span> | [QtDay 2020, Florence, Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/session/202739) |
+
+<!-- | <span class="text-nowrap">2020-03-14</span> | [QtDay 2020, Florence, Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/session/202739) | -->
 
 ## Completed
 
