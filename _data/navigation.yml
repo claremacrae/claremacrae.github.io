@@ -1,12 +1,40 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /blog/
+  - title: "Contact"
+    url: /contact_me.html
+  - title: "Hire Me"
+    url: /consulting/hire_me.html
+  - title: "Bio"
+    url: /conferences/bio.html
+
+sidebar:
+  - title: Site
+    children:
+      - title: "Home"
+        url: /
+      - title: "Contact Me"
+        url: /contact_me.html
+#      - title: "Background"
+#        url: /background.html
+  - title: Consulting
+    children:
+      - title: "Hire Me"
+        url: /consulting/hire_me.html
+      - title: "Qualifications"
+        url: /consulting/qualifications.html
+  - title: Blog
+    children:
+      - title: "Posts"
+        url: /blog/
+      - title: "Tags"
+        url: /blog/tags.html
+      - title: "Feed"
+        url: /feed.xml
+  - title: Conferences
+    children:
+      - title: "Presentations"
+        url: /conferences/presentations.html
+      - title: "Bio"
+        url: /conferences/bio.html
