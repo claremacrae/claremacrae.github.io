@@ -21,7 +21,7 @@ title                    : "Clare Macrae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Clare Macrae"
-description              : "An amazing website."
+description              : # "An amazing website."
 url                      : https://claremacrae.co.uk/
 enforce_ssl              : claremacrae.co.uk
 baseurl                  : # the subpath of your site, e.g. "/blog"
