@@ -4,4 +4,3 @@ for dir in $inputs; do
   echo $dir
     cp -r ../minimal-mistakes/$dir .
 done
-diff_include_with_minimal-mistakes-claremacrae.sh
