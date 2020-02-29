@@ -12,18 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+lang                     : en
+title                    : "Clare Macrae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Clare Macrae"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://claremacrae.co.uk/
+enforce_ssl              : claremacrae.co.uk
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : claremacrae/claremacrae.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Clare Macrae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : # "I am an **amazing** person."
+  location         : # "Somewhere"
+  email            : clare@claremacrae.co.uk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -135,25 +137,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      url: "https://twitter.com/ClareMacraeUK"
+    - label: ""
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/claremacrae"
+    - label: ""
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/claremacrae/"
+    - label: ""
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/104370/clare-macrae"
 
 # Reading Files
 include:
@@ -165,6 +160,7 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
+  - .idea/
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
@@ -172,17 +168,25 @@ exclude:
   - assets/js/vendor
   - Capfile
   - CHANGELOG
+  - CHANGELOG.md
   - config
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
+  - jekyll-whiteglass.gemspec
   - LICENSE
+  - LICENSE.txt
   - log
   - node_modules
   - package.json
   - package-lock.json
   - Rakefile
   - README
+  - README.md
+  - screenshot.png
+  - serve_locally.bat
+  - serve_locally.sh
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
@@ -220,7 +224,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -228,9 +232,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-redirect-from
   - jekyll-feed
   - jekyll-include-cache
 
@@ -293,3 +295,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "sidebar"
