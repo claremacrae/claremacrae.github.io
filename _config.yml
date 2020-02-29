@@ -48,7 +48,7 @@ footer:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/104370/clare-macrae"
 
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: "mmistakes/minimal-mistakes@2513357cdc457bedfc0d00489864491f4358ffcf"
 # See also some customising of colours from this skin in assets/css/main.scss
 minimal_mistakes_skin : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
