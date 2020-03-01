@@ -2,6 +2,7 @@
 layout: single
 title: "Qualifications"
 toc: true
+read_time: false
 ---
 
 Excellent knowledge of the full software development life cycle for large C++ and Qt applications, with particular expertise in testing and maintaining large C++ code bases, especially legacy code.

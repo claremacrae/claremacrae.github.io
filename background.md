@@ -5,6 +5,7 @@ toc: true
 redirect_from:
   - "/about-me/"
   - "/about.html"
+read_time: false
 ---
 
 ## Early Days

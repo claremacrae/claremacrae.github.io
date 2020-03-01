@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Hire Me"
+read_time: false
 ---
 
 I am an independent consultant, helping teams streamline their work with legacy and hard-to-test C++ and Qt code.

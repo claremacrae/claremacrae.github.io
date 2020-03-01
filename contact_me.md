@@ -2,6 +2,7 @@
 layout: single
 toc: true
 title: "Contact Me"
+read_time: false
 ---
 
 ## Email

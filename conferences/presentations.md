@@ -3,6 +3,7 @@ layout: single
 toc: false
 title: "Presentations"
 classes: wide
+read_time: false
 ---
 
 ## Upcoming

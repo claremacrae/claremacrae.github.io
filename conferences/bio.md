@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Conference Bio"
+read_time: false
 ---
 
 Clare is an independent consultant, helping developers work more easily with legacy C++ and Qt code. She has worked in software development for over 30 years. 
