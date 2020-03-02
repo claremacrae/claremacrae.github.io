@@ -103,6 +103,11 @@ body:hover .visually-hidden button {
   white-space: nowrap;
 }
 
+.text-tabular-dates {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
 /*
    Task lists
    ========================================================================== */
