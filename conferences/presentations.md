@@ -16,7 +16,6 @@ read_time: false
 | <span class="text-tabular-dates">2020-06-0?</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | <span class="text-tabular-dates">2020-06-07</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
 | <span class="text-tabular-dates">2020-05-05</span> | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | &nbsp; |
-| <span class="text-tabular-dates">2020-03-26</span> | [ACCU 2020, Bristol,&nbsp;UK](https://conference.accu.org/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Entry.ItemPage.8453.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
 
 ## Completed
 
