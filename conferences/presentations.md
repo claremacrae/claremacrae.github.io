@@ -15,7 +15,6 @@ read_time: false
 | <span class="text-tabular-dates">2020-06-11</span> | [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
 | <span class="text-tabular-dates">2020-06-0?</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | <span class="text-tabular-dates">2020-06-07</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
-| <span class="text-tabular-dates">2020-05-05</span> | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | &nbsp; |
 
 ## Completed
 
