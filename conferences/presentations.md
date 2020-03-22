@@ -12,7 +12,7 @@ read_time: false
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | Quickly and Effectively Testing Qt Desktop Applications |
-| <span class="text-tabular-dates">2020-06-11</span> | [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
+| <span class="text-tabular-dates">2020-10-1?</span> | [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
 | <span class="text-tabular-dates">2020-06-0?</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | <span class="text-tabular-dates">2020-06-07</span> | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
 
