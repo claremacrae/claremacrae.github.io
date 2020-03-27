@@ -18,10 +18,10 @@ read_time: false
 
 | Event | Title and Abstract |
 | ----- | ------------------ |
+| [ACCU 2020, Bristol,&nbsp;UK](https://conference.accu.org/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
 | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | &nbsp; |
-| [ACCU 2020, Bristol,&nbsp;UK](https://conference.accu.org/) | Quickly Testing Legacy C++ Code with Approval Tests |
 
 ## Completed
 
