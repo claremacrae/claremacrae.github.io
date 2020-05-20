@@ -12,13 +12,8 @@ read_time: false
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | Quickly and Effectively Testing Qt Desktop Applications |
-
-## Postponed and may be rescheduled
-
-| Event | Title and Abstract |
-| ----- | ------------------ |
-| [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
-| [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
+| <span class="text-tabular-dates">2020-07-2?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
+| <span class="text-tabular-dates">2020-07-1?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 
 ## Cancelled (COVID-19 times)
 
