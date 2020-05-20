@@ -12,16 +12,21 @@ read_time: false
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | Quickly and Effectively Testing Qt Desktop Applications |
-| <span class="text-tabular-dates">2020-10-1?</span> | [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | _Subject to confirmation:_<br>[Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
 
 ## Postponed and may be rescheduled
 
 | Event | Title and Abstract |
 | ----- | ------------------ |
-| [ACCU 2020, Bristol,&nbsp;UK](https://conference.accu.org/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
 | [C++ on Sea, Folkstone,&nbsp;UK](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
+
+## Cancelled (COVID-19 times)
+
+| Event | Title and Abstract |
+| ----- | ------------------ |
+| [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | [Patterns for better automated testing: Learning with Approval Tests](https://craft-conf.com/speaker/ClareMacrae) |
 | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | Patterns for better automated testing: Learning with Approval Tests |
+| [ACCU 2020, Bristol,&nbsp;UK](https://conference.accu.org/) | Quickly Testing Legacy C++ Code with Approval Tests |
 
 ## Completed
 
