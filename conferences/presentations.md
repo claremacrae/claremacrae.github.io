@@ -11,9 +11,10 @@ read_time: false
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | Quickly and Effectively Testing Qt Desktop Applications |
-| <span class="text-tabular-dates">2020-07-2?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco |
-| <span class="text-tabular-dates">2020-07-1?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | Quickly Testing Legacy C++ Code with Approval Tests |
+| <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
+| <span class="text-tabular-dates">2020-07-2?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco](https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html) |
+| <span class="text-tabular-dates">2020-07-1?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://cpponsea.uk/2020/sessions/quickly-testing-legacy-cpp-code-with-approval-tests.html) |
+| <span class="text-tabular-dates">2020-06-23</span> | [Cpp Europe #4](https://cppeurope.com) | [How to use Approval Tests for C++ Effectively](https://cppeurope.com/sessions/session-with-clare-macrae/) |
 
 ## Cancelled (COVID-19 times)
 
