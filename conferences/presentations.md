@@ -14,7 +14,6 @@ read_time: false
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
 | <span class="text-tabular-dates">2020-07-22</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco](https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html) |
 | <span class="text-tabular-dates">2020-07-1?</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Quickly Testing Legacy C++ Code with Approval Tests](https://cpponsea.uk/2020/sessions/quickly-testing-legacy-cpp-code-with-approval-tests.html) |
-| <span class="text-tabular-dates">2020-06-23</span> | [Cpp Europe #4](https://cppeurope.com) | [How to use Approval Tests for C++ Effectively](https://cppeurope.com/sessions/session-with-clare-macrae/) |
 
 ## Cancelled (COVID-19 times)
 
@@ -31,6 +30,7 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2020-06-23</span> | [Cpp Europe #4, Online](https://cppeurope.com) | [How to use Approval Tests for C++ Effectively](https://cppeurope.com/sessions/session-with-clare-macrae/) | &nbsp; |  &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/How_to_use_Approval_Tests_for_C++_Effectively.md#top)
 | <span class="text-tabular-dates">2020-02-25</span> | [Cpp Europe 2020, Bucharest,&nbsp;Romania](https://cppeurope.com) | [C++ Testing Techniques, Tips and Tricks](https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/) | [PPT](https://www.slideshare.net/ClareMacrae/cpp-testing-techniques-tips-and-tricks-cpp-europe) | [Video](https://www.youtube.com/watch?v=-5N-u34L7wo&list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH&index=10&t=0s) | [Links](https://github.com/claremacrae/talks/blob/master/Cpp_Testing_Techniques_Tips_and_Tricks.md#top) <br> [Trip&nbsp;Report](/blog/2020/03/cppeurope-2020) |
 | **2019** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2019-11-21</span> | [C++ London, UK](https://www.meetup.com/CppLondon/) | [C++ Testing Techniques, Tips and Tricks](https://www.meetup.com/CppLondon/events/265146936/) | [PPT](https://www.slideshare.net/ClareMacrae/c-testing-techniques-tips-and-tricks-c-london) | [Video](https://www.youtube.com/watch?v=j3prZoR8c_c) | [Links](https://github.com/claremacrae/talks/blob/master/Cpp_Testing_Techniques_Tips_and_Tricks.md#top) |
