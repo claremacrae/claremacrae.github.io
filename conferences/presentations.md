@@ -13,7 +13,6 @@ read_time: false
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
 | <span class="text-tabular-dates">2020-07-22</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco](https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html) |
-| <span class="text-tabular-dates">2020-07-15</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Quickly and Effectively Testing Legacy C++ Code with Approval Tests](https://cpponsea.uk/2020/sessions/quickly-and-effectively-testing-legacy-cpp-code-with-approval-tests.html) |
 
 ## Completed
 
@@ -22,6 +21,7 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2020-07-15</span> | [C++ on Sea, Online](https://cpponsea.uk/) | [Quickly and Effectively Testing Legacy C++ Code with Approval Tests](https://cpponsea.uk/2020/sessions/quickly-and-effectively-testing-legacy-cpp-code-with-approval-tests.html) | &nbsp; | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top) |
 | <span class="text-tabular-dates">2020-06-23</span> | [Cpp Europe #4, Online](https://cppeurope.com) | [How to use Approval Tests for C++ Effectively](https://cppeurope.com/sessions/session-with-clare-macrae/) | [PPT](https://www.slideshare.net/ClareMacrae/how-to-use-approval-tests-for-c-effectively) |  &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/How_to_use_Approval_Tests_for_C++_Effectively.md#top)
 | <span class="text-tabular-dates">2020-06-11</span> | [Craft, Budapest,&nbsp;Hungary](https://craft-conf.com) | ~~Patterns for better automated testing: Learning with Approval Tests~~ (cancelled) |
 | <span class="text-tabular-dates">2020-05-05</span> | [Cambridge Python User Group, UK](https://www.meetup.com/CamPUG/) | ~~Patterns for better automated testing: Learning with Approval Tests~~ (cancelled) |
