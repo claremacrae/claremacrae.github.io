@@ -16,7 +16,7 @@ read_time: false
 
 ## Completed
 
-See also ["Resources and references for my talks"](https://github.com/claremacrae/talks).
+See also ["Resources and references for my talks"](https://github.com/claremacrae/talks) and [YouTube playlist of talks](https://www.youtube.com/playlist?list=PLoe3M-5Wdtgzzw7J-owNzk2vFOwTO8VtF).
 
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
