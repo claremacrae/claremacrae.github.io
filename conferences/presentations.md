@@ -13,7 +13,7 @@ read_time: false
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
 | <span class="text-tabular-dates">2020-09-1?</span> | [CppCon](https://cppcon.org) | Quickly Testing Qt Desktop Applications with Approval Tests |
-| <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [Workshop: Testing Legacy Code effectively with Approval Tests](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) |
+| <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) |
 | <span class="text-tabular-dates">2020-08-06</span> | [MUC++, Online](https://www.meetup.com/MUCplusplus/) | [Quickly and Effectively Testing Legacy C++ Code with Approval Tests](https://www.meetup.com/MUCplusplus/events/272038301/) |
 
 ## Completed
