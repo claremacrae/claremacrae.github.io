@@ -14,6 +14,8 @@ tags:
 
 ## Details
 
+Title: **Testing Legacy Code effectively with Approval Tests**
+
 [Register here](https://bit.ly/LegacyCppSept2020) £350 / $450
 
 This online workshop is 2 hours a week for 4 weeks
