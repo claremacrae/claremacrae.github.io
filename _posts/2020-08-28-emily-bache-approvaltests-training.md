@@ -71,6 +71,7 @@ I learned way, way too much to share in a blog... But here are a few examples.
 
 * "Printer" is a nicer analogy than "[To String](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/ToString.md)" for explaining how to covert any object to text for use in Approval Tests.
 * [All-Pairs or Pairwise Testing](https://en.wikipedia.org/wiki/All-pairs_testing) is a powerful alternative to [Combination](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/TestingCombinations.md#top) testing, as it greatly reduces the number of combinations of values required - speeding up the tests.
+* We saw a nice technique in the [Lift Kata](https://github.com/emilybache/Lift-Kata) of approving a sequence of steps in a single file - perhaps like a story-board or a time-sequence. This could be implemented with [verifyAll()](https://github.com/approvals/ApprovalTests.cpp/blob/master/doc/how_tos/TestContainerContents.md#top) - but Llewellyn pointed out that it might be useful to add this as a first-class concept in the Approval Tests libraries, for more easy-to-interpret output.
 
 ### TextTest
 
