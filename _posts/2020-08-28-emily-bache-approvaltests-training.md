@@ -44,7 +44,7 @@ For example, this was a great way to gather feedback and see what each of us had
 
 ### Exercises
 
-Most of the exercises were in Java - and Emily's slides gave example code in both C# and Java, and I'm most experienced in C++.
+Most of the exercises were in Java, with some on Python - and Emily's slides gave example code in both C# and Java, and I'm most experienced in C++.
 
 We were all logged on to a shared virtual machine that Emily had set up for the course, and we did the exercises collaboratively, taking turns with one person typing, and others instructing. (Think "Mob" or "Ensemble" programming.)
 
