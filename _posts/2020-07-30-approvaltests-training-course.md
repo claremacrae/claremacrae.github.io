@@ -54,6 +54,7 @@ In this hands-on workshop, you will learn not just how to use Approval Tests to 
 
 ![Instructors](/images/approval_tests_course_2020_09/course.instructors.png)
 
+You can [register here](https://bit.ly/LegacyCppSept2020).
 
 ### Clare Macrae
 
