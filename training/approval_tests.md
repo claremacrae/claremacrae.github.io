@@ -52,7 +52,7 @@ In this hands-on workshop, you will learn not just how to use Approval Tests to 
 
 ## Instructors
 
-![Instructors](/images/approval_tests_course_2020_09/course.instructors.png)
+![Instructors](/images/approval_tests_course_2020_09/course.instructors_nov.png)
 
 You can [register here](https://bit.ly/LegacyCppNov2020).
 
