@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Approval Tests Training Course (Sept 2020)"
+title: "Approval Tests Training Course (Nov 2020)"
 excerpt: Hands-on workshop, learning to use Approval Tests on legacy code for effective, maintainable, expressive tests even on large systems
 toc: true
 toc_sticky: false
@@ -18,7 +18,7 @@ Title: **Testing Legacy Code effectively with Approval Tests**
 
 [Register here](https://bit.ly/LegacyCppSept2020) £350 / $450
 
-The next online workshop is 2 hours a week for 4 weeks
+The next online workshop is 2 hours a week for 4 weeks.
 
 Tuesdays: 4pm to 6pm GMT (8am to 10am PST)
 
