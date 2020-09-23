@@ -11,8 +11,8 @@ read_time: false
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2020-11</span> | Online: 3, 10, 17, 24 Nov | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://bit.ly/LegacyCppNov2020) |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
+| <span class="text-tabular-dates">2020-11</span> | Online: 3, 10, 17, 24 Nov | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://bit.ly/LegacyCppNov2020) |
 | <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) |
 
 ## Completed
