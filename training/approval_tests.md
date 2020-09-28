@@ -29,8 +29,8 @@ The next online workshop is 2 hours a week for 4 weeks.
 
 * [Nov 03](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+1+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201103T16&p1=136&ah=2) - Testing existing code
 * [Nov 10](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+2+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201110T16&p1=136&ah=2) - Testing with ApprovalTests
-* [Nov 17](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+3+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201117T16&p1=136&ah=2) - Testing Globals & Services
-* [Nov 24](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+4+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201124T16&p1=136&ah=2) - Testing inconsistent dates and hard-to-invoke code
+* [Nov 17](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+3+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201117T16&p1=136&ah=2) - Writing tests to protect hard-to-test code
+* [Nov 24](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+4+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201124T16&p1=136&ah=2) - Improving code so it's easier to test
 
  &nbsp; &nbsp; \+ (optional) **1**-on-**1** consults with the instructors on **your code**
 
