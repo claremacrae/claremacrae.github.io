@@ -13,7 +13,6 @@ read_time: false
 | **2020** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-11-2?</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) |
 | <span class="text-tabular-dates">2020-11</span> | Online: 3, 10, 17 & 24 Nov | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://bit.ly/LegacyCppNov2020) |
-| <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [**Workshop: Testing Legacy Code effectively with Approval Tests**](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) |
 
 ## Completed
 
@@ -22,6 +21,7 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [Workshop: Testing Legacy Code effectively with Approval Tests](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) |
 | <span class="text-tabular-dates">2020-09-16</span> | [CppCon](https://cppcon.org) | Code Samples That Compile Even More Easily |
 | <span class="text-tabular-dates">2020-09-16</span> | [CppCon](https://cppcon.org) | [Quickly Testing Qt Desktop Applications with Approval Tests](https://cppcon2020.sched.com/event/e7BA/quickly-testing-qt-desktop-applications-with-approval-tests) | &nbsp; | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top)
 | <span class="text-tabular-dates">2020-08-06</span> | [MUC++, Online](https://www.meetup.com/MUCplusplus/) | [Quickly and Effectively Testing Legacy C++ Code with Approval Tests](https://www.meetup.com/MUCplusplus/events/272038301/) | [PPT](https://www.slideshare.net/ClareMacrae/quickly-and-effectively-testing-legacy-c-code-with-approval-tests-mu-cpp) | [Video](https://youtu.be/vtWnqqSUzrY) | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top) |
