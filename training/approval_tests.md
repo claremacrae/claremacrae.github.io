@@ -38,10 +38,10 @@ The next online workshop is 2 hours a week for 4 weeks.
 
 To attend this course, you will need to be able to use the following:
 
-* [Zoom](https://zoom.us), with a microphone and camera
-* [AnyDesk](https://anydesk.com/en)
-* [Google Docs](https://docs.google.com/) (you won't need a Google account, though)
-* Basic understanding of C++ (creating strings, writing and calling functions, variables, loops, and similar…)
+* [**Zoom**](https://zoom.us), with a microphone and camera
+* [**AnyDesk**](https://anydesk.com/en)
+* [**Google Docs**](https://docs.google.com/) (you won't need a Google account, though)
+* **Basic understanding of C++** (creating strings, writing and calling functions, variables, loops, and similar…)
 
 ## A different type of course
 
