@@ -18,7 +18,7 @@ Title: **Testing Legacy Code effectively with Approval Tests**
 
 [Register here](https://bit.ly/LegacyCppNov2020) £350 / $450
 
-The next online workshop is 2 hours a week for 4 weeks.
+This **online C++ testing workshop** is 2 hours a week for 4 weeks.
 
 ### Times
 
