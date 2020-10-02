@@ -20,12 +20,12 @@ Title: **Testing Legacy Code effectively with Approval Tests**
 
 The next online workshop is 2 hours a week for 4 weeks.
 
-**Times**:
+### Times
 
 * **Tuesdays**, 4pm to 6pm GMT (8am to 10am PST)
 * Click on the dates below to see in **your local time**, and optionally **add to your calendar**.
 
-**Dates:**
+### Dates
 
 * [Nov 03](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+1+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201103T16&p1=136&ah=2) - Testing existing code
 * [Nov 10](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+2+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201110T16&p1=136&ah=2) - Testing with ApprovalTests
@@ -33,6 +33,15 @@ The next online workshop is 2 hours a week for 4 weeks.
 * [Nov 24](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Day+4+-+Approval+Tests+Training+Course+%28Nov+2020%29&iso=20201124T16&p1=136&ah=2) - Improving code so it's easier to test
 
  &nbsp; &nbsp; \+ (optional) **1**-on-**1** consults with the instructors on **your code**
+
+### Course Requirements
+
+To attend this course, you will need to be able to use the following:
+
+* [Zoom](https://zoom.us), with a microphone and camera
+* [AnyDesk](https://anydesk.com/en)
+* [Google Docs](https://docs.google.com/) (you won't need a Google account, though)
+* Basic understanding of C++ (creating strings, writing and calling functions, variables, loops, and similar…)
 
 ## A different type of course
 
