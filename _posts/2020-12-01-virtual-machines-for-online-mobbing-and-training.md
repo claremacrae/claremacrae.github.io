@@ -3,7 +3,7 @@
 layout: single
 title: "Virtual Machines for Online Mobbing and Training"
 excerpt: Notes and links for quick setup of cloud VMs
-toc: true
+toc: false
 toc_sticky: false
 date: 2020-12-01
 tags:
