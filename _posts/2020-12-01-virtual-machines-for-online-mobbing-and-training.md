@@ -3,7 +3,7 @@
 layout: single
 title: "Virtual Machines for Online Mobbing and Training"
 excerpt: Notes and links for quick setup of cloud VMs
-toc: false
+toc: true
 toc_sticky: false
 date: 2020-12-01
 tags:
@@ -11,6 +11,8 @@ tags:
   - training
   - testing
 ---
+
+## Setup and configuration
 
 Some links to share how Llewellyn Falco and I have been setting up VMs for online mobbing and training. More info to follow....
 
@@ -20,4 +22,10 @@ Some links to share how Llewellyn Falco and I have been setting up VMs for onlin
     * installation instructions
     * how to run tests
     * learning the language
-    * useful resources.
+    * useful resources
+
+## Future steps
+
+* Investigate creating EC2 instances via [command-line](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html), rather than manual steps
+* Investigate connecting via [Session Manager](using Session Manager). This is the default connection, and may be better than Remote Desktop.
+* Investigate [Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
