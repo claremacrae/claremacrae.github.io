@@ -6,12 +6,13 @@ classes: wide
 read_time: false
 ---
 
+<!--
 ## Upcoming
 
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2020** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2020-12-03</span> | [Meeting C++ Online](https://meetingcpp.com/mcpp/online/) | Quickly Testing Qt Desktop Applications with Approval Tests |
+-->
 
 ## Completed
 
@@ -20,6 +21,7 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2020-12-03</span> | [Meeting C++ Online](https://meetingcpp.com/mcpp/online/) | Quickly Testing Qt Desktop Applications with Approval Tests | [PDF](http://meetingcpp.com/mcpp/slides/2020/Quickly%20and%20Effectively%20Testing%20Qt%20Desktop%20Applications%20-%20Meeting%20Cpp%20Online%2020207787.pdf) | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top) |
 | <span class="text-tabular-dates">2020-11-19</span> | [QtDay 2020, Florence,&nbsp;Italy](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) | &nbsp; | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top) |
 | <span class="text-tabular-dates">2020-11</span> | Online: 3, 10, 17 & 24 Nov | [Workshop: Testing Legacy Code effectively with Approval Tests](https://bit.ly/LegacyCppNov2020) | &nbsp; | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-09</span> | Online: 8, 15, 22 & 29 Sept | [Workshop: Testing Legacy Code effectively with Approval Tests](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course) | &nbsp; | &nbsp; | &nbsp; |
