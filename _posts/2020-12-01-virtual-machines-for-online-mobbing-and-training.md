@@ -7,7 +7,8 @@ toc: true
 toc_sticky: false
 date: 2020-12-01
 tags:
-  - approval tests
+  - build systems
+  - infrastructure
   - training
   - testing
 ---
