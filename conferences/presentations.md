@@ -6,13 +6,12 @@ classes: wide
 read_time: false
 ---
 
-<!--
 ## Upcoming
 
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
-| **2020** | &nbsp; | &nbsp; |
--->
+| **2021** | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2021-03-12</span> | [ACCU 2021, Online](https://conference.accu.org/) | Refactoring Superpowers: make your IDE do your work, faster and more safely |
 
 ## Completed
 
