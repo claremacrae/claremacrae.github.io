@@ -11,7 +11,7 @@ read_time: false
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2021** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2021-03-12</span> | [ACCU 2021, Online](https://conference.accu.org/) | Refactoring Superpowers: make your IDE do your work, faster and more safely |
+| <span class="text-tabular-dates">2021-03-10</span> | [ACCU 2021, Online](https://conference.accu.org/) | Refactoring Superpowers: make your IDE do your work, faster and more safely |
 
 ## Completed
 
