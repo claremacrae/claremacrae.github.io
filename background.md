@@ -10,9 +10,11 @@ read_time: false
 
 ## Early Days
 
-This will date me, but my first programming experiences were working through [Donald Alcock’s Illustrating Basic](http://www.computinghistory.org.uk/cgi/archive.pl?type=Books&platform=&author=Donald%20Alcock&publisher=&order=Publisher) with my Dad! My timing at school was lucky, as I got there just in time for the first [BBC Micro](http://en.wikipedia.org/wiki/BBC_Micro) to arrive. Then Dad got a [Transam Tuscan](http://www.computinghistory.org.uk/det/7010/Transam-Tuscan-S100/), and the days of hand-writing instructions to send away to be typed up were over.
+This will date me, but my first programming experiences were working through [Donald Alcock’s Illustrating Basic](http://www.computinghistory.org.uk/cgi/archive.pl?type=Books&platform=&author=Donald%20Alcock&publisher=&order=Publisher) with my Dad! Amazingly, Dad bought a [Transam Tuscan](http://www.computinghistory.org.uk/det/7010/Transam-Tuscan-S100/) so that we could learn together.
 
-At University, I was able to keep up the programming interest in my fourth year, when I did a computational chemistry project in [Professor Graham Richards](http://en.wikipedia.org/wiki/Graham_Richards)' lab, for the Part II of my chemistry degree.
+At upper school, much of my programming involved sending off hand-written code, to be typed up and run on some batch-processing system. I was lucky, though, to be just the right age to join the lunchtime queue to use my school's first [BBC Micro](http://en.wikipedia.org/wiki/BBC_Micro).
+
+At University, I was able to keep up the programming interest in my fourth year, when I did a computational chemistry project in [Professor Graham Richards](http://en.wikipedia.org/wiki/Graham_Richards)' lab, for the Part II of my chemistry degree. Practical chemistry never was my strong point, so this Fortran scientific programming experience was valuable.
 
 From there, in 1987 I got a job as a junior programmer at [Cambridge Crystallographic Data Centre](http://www.ccdc.cam.ac.uk/) (CCDC). Apart from a brief 6-month stint in sales at [Oxford Molecular](http://www.isis-innovation.com/spinout/oxmol.html) in early 1991, I was a developer at CCDC until June 2019.
 
@@ -39,6 +41,10 @@ I remain very proud of the CCDC's [Mercury](http://www.ccdc.cam.ac.uk/Solutions/
 I’m passionate about using computers to save time. This means I contributed to CCDC’s software build and version control systems for decades. In 2009 and 2010 I lead major efforts to streamline their release processes, which had required many time-consuming manual steps.
 
 Then in 2018 and 2019 I lead another project to significantly speed up the release cycle, culminating in my giving a talk [Escaping 5 decades of monolithic annual releases](https://www.youtube.com/watch?v=dxXNvRvBzgM) at PIPELINE 2018.
+
+## Consulting
+
+In 2019 I set up Clare Macrae Consulting Ltd, and am [available for consulting and training](/consulting/hire_me.html) in all aspects of working with legacy and un-tested code.
 
 ## Interests
 
