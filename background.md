@@ -30,13 +30,15 @@ CCDC's continued adoption of [Agile software development practices](http://agile
 
 When I was programming there, it was mainly in C++ and Qt.
 
-With the replacement of ASER in our releases in late 2018, we archived more than three decades worth of FORTRAN 77 code, so that's a skill that I no longer use.
+With the replacement of the old "ASER database format" in our releases in late 2018, we archived more than three decades worth of FORTRAN 77 code, so that's a skill that I no longer use.
 
 I remain very proud of the CCDC's [Mercury](http://www.ccdc.cam.ac.uk/Solutions/CSDSystem/Pages/Mercury.aspx) crystal structure visualisation program. I was the original, and then lead, developer of Mercury from 1999 until around 2010. In December 2018 I returned to working on Mercury.
 
 ## Scripting and automation
 
-I’m passionate about using computers to save time. This means I’ve contributed to CCDC’s software build and version control systems for decades. In 2009 and 2010 I lead major efforts to streamline our release processes, which had required many time-consuming manual steps.
+I’m passionate about using computers to save time. This means I contributed to CCDC’s software build and version control systems for decades. In 2009 and 2010 I lead major efforts to streamline their release processes, which had required many time-consuming manual steps.
+
+Then in 2018 and 2019 I lead another project to significantly speed up the release cycle, culminating in my giving a talk [Escaping 5 decades of monolithic annual releases](https://www.youtube.com/watch?v=dxXNvRvBzgM) at PIPELINE 2018.
 
 ## Interests
 
