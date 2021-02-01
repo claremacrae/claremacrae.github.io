@@ -65,7 +65,7 @@ contributed to CCDC’s software build and version control systems for
 decades. In 2009 and 2010 I lead major efforts to streamline our release
 processes, which had required many time-consuming manual steps.
 
-At work and at home,  I’m a keen user and advocate of the
+At work and at home, I’m a keen user and advocate of the
 keystroke-saving tool [AutoHotKey](http://www.autohotkey.com/) and I
 dabble in Python.
 
