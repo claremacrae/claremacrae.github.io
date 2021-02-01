@@ -12,7 +12,7 @@ read_time: false
 | ----- | ----- | ------------------ |
 | **2021** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2021-03-10</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12069.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
-| <span class="text-tabular-dates">2021-02-16</span> | JetBrains Webinar | [Testing Superpowers: Using CLion to add tests easily](https://info.jetbrains.com/clion-webinar-february-2021.html) |
+| <span class="text-tabular-dates">2021-02-16</span> | JetBrains Webinar | [Testing Superpowers: Using CLion to add tests easily](https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/) |
 
 ## Completed
 
