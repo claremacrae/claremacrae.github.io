@@ -37,3 +37,7 @@ In all my roles as developer, manager, scrum-master, product owner, and team lea
 * Experience with dividing up large code bases into smaller projects.
 * Successfully lead a collection of teams to move from annual releases of desktop releases.
 * Implemented and/or lead multiple version-control migrations, always retaining all data that still had value. (Vax/VMS CMS to RCS, RCS to CVS, CVS to Mercurial – and that last stage, we were able to divide the original ~8GB repo successfully, using domain knowledge, and cross-team communication).
+
+## Background
+
+For a little more information, see [Background](/background.html).
