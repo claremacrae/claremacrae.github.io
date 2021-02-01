@@ -22,9 +22,7 @@ Until June 2019, I was a Principal Scientific Software Engineer at [CCDC](http:/
 
 Recent projects included:
 
-* leading the team responsible for
-delivering
-[CSD-Xpedite](http://www.ccdc.cam.ac.uk/SUPPORTANDRESOURCES/Support/Pages/SupportSolution.aspx?supportsolutionid=304)
+* leading the team responsible for delivering [CSD-Xpedite](http://www.ccdc.cam.ac.uk/SUPPORTANDRESOURCES/Support/Pages/SupportSolution.aspx?supportsolutionid=304)
 * leading the project that [replaced the ASER database format](https://www.ccdc.cam.ac.uk/Community/blog/2017-12-14-csd-release-2018/). 
 * implementing the [Polyhedral display style in Mercury](https://www.ccdc.cam.ac.uk/Community/blog/greater-structural-insight-and-clearer-visualisation/). 
 
