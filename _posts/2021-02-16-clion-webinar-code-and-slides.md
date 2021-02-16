@@ -21,6 +21,16 @@ As ever, although I find that writing talks and demos takes me longer than I exp
 
 I had a mix of demo and slides: there's always so much that I want to say in talks, and never enough time, but I really enjoyed the experience, and am grateful for the invitation.
 
+## Overview
+
+I covered these broad topics:
+
+* Testing with Catch2
+* Testing with Approval Tests
+* Using Code Coverage tools to improve the tests
+* Improving the tests, with Combination Approvals
+* CLion testing tips
+
 ## Video and Slides
 
 ![Image of first slide](/images/JetBrainsCLionWebinarSlides.png)
@@ -33,7 +43,7 @@ I had a mix of demo and slides: there's always so much that I want to say in tal
 
 The code is in [my fork](https://github.com/claremacrae/commandline-videostore-cpp) of Arne Mertz's [commandline-videostore-cpp](https://github.com/arnemertz/commandline-videostore-cpp).
 
-I've added a bunch of useful links and credits to its [README](https://github.com/claremacrae/commandline-videostore-cpp/blob/starting-point/README.md)
+I've added a bunch of useful links and credits to its [README](https://github.com/claremacrae/commandline-videostore-cpp/blob/starting-point/README.md).
 
 The **branches** for today's talk are:
 
