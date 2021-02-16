@@ -25,8 +25,9 @@ I had a mix of demo and slides: there's always so much that I want to say in tal
 
 ![Image of first slide](/images/JetBrainsCLionWebinarSlides.png)
 
-* Slides: _coming soon_
+* Slides: [Availailable on SlideShare](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily)
 * Video: _coming soon_
+* JetBrains Blog: _coming soon_
 
 ## The Code
 
