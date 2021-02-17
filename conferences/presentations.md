@@ -12,7 +12,6 @@ read_time: false
 | ----- | ----- | ------------------ |
 | **2021** | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2021-03-10</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12069.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
-| <span class="text-tabular-dates">2021-02-16</span> | JetBrains Webinar | [Testing Superpowers: Using CLion to add tests easily](https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/) |
 
 ## Completed
 
@@ -20,6 +19,8 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
+| **2021** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2021-02-16</span> | JetBrains Webinar | [Testing Superpowers: Using CLion to add tests easily](https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/) | [PPT](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily) | &nbsp; | [Links](/blog/2021/02/clion-webinar-code-and-slides) |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-12-03</span> | [Meeting C++ Online](https://meetingcpp.com/mcpp/online/) | Quickly Testing Qt Desktop Applications with Approval Tests | [PDF](http://meetingcpp.com/mcpp/slides/2020/Quickly%20and%20Effectively%20Testing%20Qt%20Desktop%20Applications%20-%20Meeting%20Cpp%20Online%2020207787.pdf) | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top) |
 | <span class="text-tabular-dates">2020-11-19</span> | [QtDay 2020, Online](https://www.qtday.it/) | [Quickly and Effectively Testing Qt Desktop Applications](https://www.qtday.it/agenda/speakers/573234) | &nbsp; | [Video](https://www.youtube.com/watch?v=XE4_D1ddtQg) | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top) |
