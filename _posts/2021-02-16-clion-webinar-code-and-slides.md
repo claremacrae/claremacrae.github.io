@@ -21,6 +21,14 @@ As ever, although I find that writing talks and demos takes me longer than I exp
 
 I had a mix of demo and slides: there's always so much that I want to say in talks, and never enough time, but I really enjoyed the experience, and am grateful for the invitation.
 
+## Video and Slides
+
+![Image of first slide](/images/JetBrainsCLionWebinarSlides.png)
+
+* [Recording on YouTube](https://www.youtube.com/watch?v=w2CzYK5ZJys)
+* [JetBrains Blog Post](https://blog.jetbrains.com/clion/2021/02/testing-superpowers-webinar-recording/), with timings, and links to other useful resources
+* [Slides on SlideShare](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily)
+
 ## Overview
 
 I covered these broad topics:
@@ -30,14 +38,6 @@ I covered these broad topics:
 * Using Code Coverage tools to improve the tests
 * Improving the tests, with Combination Approvals
 * CLion testing tips
-
-## Video and Slides
-
-![Image of first slide](/images/JetBrainsCLionWebinarSlides.png)
-
-* [Recording on YouTube](https://www.youtube.com/watch?v=w2CzYK5ZJys)
-* [JetBrains Blog Post](https://blog.jetbrains.com/clion/2021/02/testing-superpowers-webinar-recording/), with timings, and links to other useful resources
-* [Slides on SlideShare](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily)
 
 ## The Code
 
