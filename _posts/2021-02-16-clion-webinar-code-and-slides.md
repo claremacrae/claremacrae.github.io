@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JetBrains CLion Webinar: Code and Slides"
+title: "JetBrains CLion Webinar: Video, Code and Slides"
 excerpt: Notes from today's CLion webinar for JetBrains 
 toc: true
 toc_sticky: false
@@ -35,9 +35,9 @@ I covered these broad topics:
 
 ![Image of first slide](/images/JetBrainsCLionWebinarSlides.png)
 
-* Slides: [Availailable on SlideShare](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily)
-* Video: _coming soon_
-* JetBrains Blog: _coming soon_
+* [Recording on YouTube](https://www.youtube.com/watch?v=w2CzYK5ZJys)
+* [JetBrains Blog Post](https://blog.jetbrains.com/clion/2021/02/testing-superpowers-webinar-recording/), with timings, and links to other useful resources
+* [Slides on SlideShare](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily)
 
 ## The Code
 
