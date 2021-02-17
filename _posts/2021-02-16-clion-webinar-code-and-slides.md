@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JetBrains Clion Webinar: Code and Slides"
+title: "JetBrains CLion Webinar: Code and Slides"
 excerpt: Notes from today's CLion webinar for JetBrains 
 toc: true
 toc_sticky: false
