@@ -11,7 +11,7 @@ read_time: false
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2021** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2021-03-10</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12069.0.EntryDefinition.b8efce33-2c84-4290-ba65-991a03ef305d) |
+| <span class="text-tabular-dates">2021-03-12</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f). <br> (This talk was originally scheduled 2 days earlier)|
 
 ## Completed
 
