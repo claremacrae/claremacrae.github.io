@@ -11,7 +11,6 @@ read_time: false
 | Date  | Event | Title and Abstract |
 | ----- | ----- | ------------------ |
 | **2021** | &nbsp; | &nbsp; |
-| <span class="text-tabular-dates">2021-03-12</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f). <br> (This talk was [originally scheduled 2 days earlier](https://accu.org/conf-news/2021/2021-03-09-accu2021keynotechange/)). |
 
 ## Completed
 
@@ -20,6 +19,7 @@ See also ["Resources and references for my talks"](https://github.com/claremacra
 | Date  | Event | Title and Abstract | Slides  | Video | Code / Links |
 | ----- | ----- | ------------------ | ------- | ----- | ------------ |
 | **2021** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| <span class="text-tabular-dates">2021-03-12</span> | [ACCU 2021, Online](https://conference.accu.org/) | [Keynote: Refactoring Superpowers: make your IDE do your work, faster and more safely](https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f). <br> (This talk was [originally scheduled 2 days earlier](https://accu.org/conf-news/2021/2021-03-09-accu2021keynotechange/)). | &nbsp; | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top) |
 | <span class="text-tabular-dates">2021-02-16</span> | JetBrains Webinar | [Testing Superpowers: Using CLion to add tests easily](https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/) | [PPT](https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily) | [Video](https://www.youtube.com/watch?v=w2CzYK5ZJys) | [Links](/blog/2021/02/clion-webinar-code-and-slides) |
 | **2020** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | <span class="text-tabular-dates">2020-12-03</span> | [Meeting C++ Online](https://meetingcpp.com/mcpp/online/) | Quickly Testing Qt Desktop Applications with Approval Tests | [PDF](http://meetingcpp.com/mcpp/slides/2020/Quickly%20and%20Effectively%20Testing%20Qt%20Desktop%20Applications%20-%20Meeting%20Cpp%20Online%2020207787.pdf) | &nbsp; | [Links](https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top) |
