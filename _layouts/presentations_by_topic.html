@@ -24,7 +24,7 @@ layout: single
   <tbody>
 
   {% for category in categoryGroupsSorted %}
-    {% if category.name == 'Cancelled' %}
+    {% if category.name == 'Cancelled' or category.name == 'Workshop' %}
       {% continue %}
     {% endif %}
     <tr>
