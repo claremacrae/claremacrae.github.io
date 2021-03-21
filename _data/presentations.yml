@@ -2,6 +2,7 @@
   event:
     name: ACCU 2021, Online
     url: https://conference.accu.org/
+  category: "Refactoring Superpowers: Work faster and more safely."
   talk:
     name: "Keynote: Refactoring Superpowers: make your IDE do your work, faster and more safely."
     url: https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f
@@ -19,6 +20,7 @@
   event:
     name: JetBrains Webinar
     url:
+  category: "Testing Superpowers: Add tests easily"
   talk:
     name: "Testing Superpowers: Using CLion to add tests easily"
     url: https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/
@@ -34,6 +36,7 @@
   event:
     name: Meeting C++ Online
     url: https://meetingcpp.com/mcpp/online/
+  category: Testing Qt Desktop Applications
   talk:
     name: Quickly Testing Qt Desktop Applications with Approval Tests
   slides:
@@ -47,6 +50,7 @@
   event:
     name: QtDay 2020, Online
     url: https://www.qtday.it/
+  category: Testing Qt Desktop Applications
   talk:
     name: Quickly and Effectively Testing Qt Desktop Applications
     url: https://www.qtday.it/agenda/speakers/573234
@@ -58,6 +62,7 @@
 - date: 2020-11
   event:
     name: "Online: 3, 10, 17 &amp; 24 Nov"
+  category: "Workshop"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://bit.ly/LegacyCppNov2020
@@ -65,6 +70,7 @@
 - date: 2020-09
   event:
     name: "Online: 8, 15, 22 &amp; 29 Sept"
+  category: "Workshop"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
@@ -73,6 +79,7 @@
   event:
     name: CppCon, Online
     url: https://cppcon.org
+  category: Code Samples that Actually Compile
   talk:
     name: Code Samples That Compile Even More Easily
   video:
@@ -84,6 +91,7 @@
   event:
     name: CppCon, Online
     url: https://cppcon.org
+  category: Testing Qt Desktop Applications
   talk:
     name: Quickly Testing Qt Desktop Applications with Approval Tests
     url: https://cppcon2020.sched.com/event/e7BA/quickly-testing-qt-desktop-applications-with-approval-tests
@@ -98,6 +106,7 @@
   event:
     name: MUC++, Online
     url: https://www.meetup.com/MUCplusplus/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly and Effectively Testing Legacy C++ Code with Approval Tests
     url: https://www.meetup.com/MUCplusplus/events/272038301/
@@ -112,6 +121,7 @@
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
+  category: "Workshop"
   talk:
     name: "Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco"
     url: https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html
@@ -120,6 +130,7 @@
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
+  category: Code Samples that Actually Compile
   talk:
     name: Code Samples that Actually Compile
   slides:
@@ -131,6 +142,7 @@
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly and Effectively Testing Legacy C++ Code with Approval Tests
     url: https://cpponsea.uk/2020/sessions/quickly-and-effectively-testing-legacy-cpp-code-with-approval-tests.html
@@ -146,6 +158,7 @@
   event:
     name: "Cpp Europe #4, Online"
     url: https://cppeurope.com
+  category: Use Approval Tests for C++ Effectively
   talk:
     name: How to use Approval Tests for C++ Effectively
     url: https://cppeurope.com/sessions/session-with-clare-macrae/
@@ -160,6 +173,7 @@
   event:
     name: "Craft, Budapest,&nbsp;Hungary"
     url: https://craft-conf.com
+  category: "Cancelled"
   talk:
     name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
@@ -167,6 +181,7 @@
   event:
     name: Cambridge Python User Group, UK
     url: https://www.meetup.com/CamPUG/
+  category: "Cancelled"
   talk:
     name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
@@ -174,6 +189,7 @@
   event:
     name: "ACCU 2020, Bristol,&nbsp;UK"
     url: https://conference.accu.org/
+  category: "Cancelled"
   talk:
     name: <del>Quickly Testing Legacy C++ Code with Approval Tests</del> (cancelled)
 
@@ -181,6 +197,7 @@
   event:
     name: "Cpp Europe 2020, Bucharest,&nbsp;Romania"
     url: https://cppeurope.com
+  category: C++ Testing Techniques, Tips and Tricks
   talk:
     name: C++ Testing Techniques, Tips and Tricks
     url: https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/
@@ -196,6 +213,7 @@
   event:
     name: C++ London, UK
     url: https://www.meetup.com/CppLondon/
+  category: C++ Testing Techniques, Tips and Tricks
   talk:
     name: C++ Testing Techniques, Tips and Tricks
     url: https://www.meetup.com/CppLondon/events/265146936/
@@ -210,6 +228,7 @@
   event:
     name: "Meeting C++ 2019, Berlin,&nbsp;Germany"
     url: https://meetingcpp.com/2019/
+  category: Testing Qt Desktop Applications
   talk:
     name: Quickly Testing Qt Desktop Applications
     url: https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html
@@ -222,6 +241,7 @@
   event:
     name: "CppCon 2019, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
+  category: Code Samples that Actually Compile
   talk:
     name: Code Samples that Actually Compile
   slides:
@@ -234,6 +254,7 @@
   event:
     name: "CppCon 2019, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy C++ Code with Approval Tests
     url: https://cppcon2019.sched.com/event/Sfdj/quickly-testing-legacy-c-code-with-approval-tests
@@ -249,6 +270,7 @@
   event:
     name: ACCU Cambridge, UK
     url: https://www.meetup.com/ACCU-Cambridge/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy C++ Code with Approval Tests
     url: https://www.meetup.com/ACCU-Cambridge/events/262761572/
@@ -261,6 +283,7 @@
   event:
     name: "CPPP 2019, Paris,&nbsp;France"
     url: https://cppp.fr/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy Code
     url: "https://cppp.fr/index.php?L=0&amp;id=20#talk.ClareMacrae"
@@ -276,6 +299,7 @@
   event:
     name: ACCU York, UK
     url: https://www.meetup.com/ACCU-York/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy Code
     url: https://www.meetup.com/ACCU-York/events/259156413/
@@ -288,6 +312,7 @@
   event:
     name: "C++ on Sea, Folkstone,&nbsp;UK"
     url: https://cpponsea.uk/
+  category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy Code
     url: https://cpponsea.uk/2019/sessions/quickly-testing-legacy-code.html
@@ -303,6 +328,7 @@
   event:
     name: "PIPELINE 2018, London,&nbsp;UK"
     url: https://pipelineconf.info/
+  category: Monolithic Releases
   talk:
     name: Escaping 5 decades of monolithic annual releases
     url: https://pipelineconf.info/pipeline-speakers/clare-macrae/
