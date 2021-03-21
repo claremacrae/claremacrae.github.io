@@ -174,7 +174,7 @@
 - name: XXX
   date: 2020-06-11
   event:
-    name: Craft, Budapest,&nbsp;Hungary
+    name: "Craft, Budapest,&nbsp;Hungary"
     url: https://craft-conf.com
   talk:
     name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
@@ -190,7 +190,7 @@
 - name: XXX
   date: 2020-03-26
   event:
-    name: ACCU 2020, Bristol,&nbsp;UK
+    name: "ACCU 2020, Bristol,&nbsp;UK"
     url: https://conference.accu.org/
   talk:
     name: <del>Quickly Testing Legacy C++ Code with Approval Tests</del> (cancelled)
@@ -198,7 +198,7 @@
 - name: XXX
   date: 2020-02-25
   event:
-    name: Cpp Europe 2020, Bucharest,&nbsp;Romania
+    name: "Cpp Europe 2020, Bucharest,&nbsp;Romania"
     url: https://cppeurope.com
   talk:
     name: C++ Testing Techniques, Tips and Tricks
@@ -229,7 +229,7 @@
 - name: XXX
   date: 2019-11-15
   event:
-    name: Meeting C++ 2019, Berlin,&nbsp;Germany
+    name: "Meeting C++ 2019, Berlin,&nbsp;Germany"
     url: https://meetingcpp.com/2019/
   talk:
     name: Quickly Testing Qt Desktop Applications
@@ -242,7 +242,7 @@
 - name: XXX
   date: 2019-09-18
   event:
-    name: CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA
+    name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
   talk:
     name: Code Samples that Actually Compile
@@ -255,7 +255,7 @@
 - name: XXX
   date: 2019-09-16
   event:
-    name: CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA
+    name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
   talk:
     name: Quickly Testing Legacy C++ Code with Approval Tests
@@ -284,7 +284,7 @@
 - name: XXX
   date: 2019-06-15
   event:
-    name: CPPP 2019, Paris,&nbsp;France
+    name: "CPPP 2019, Paris,&nbsp;France"
     url: https://cppp.fr/
   talk:
     name: Quickly Testing Legacy Code
@@ -313,7 +313,7 @@
 - name: XXX
   date: 2019-02-05
   event:
-    name: C++ on Sea, Folkstone,&nbsp;UK
+    name: "C++ on Sea, Folkstone,&nbsp;UK"
     url: https://cpponsea.uk/
   talk:
     name: Quickly Testing Legacy Code
@@ -329,7 +329,7 @@
 - name: XXX
   date: 2018-03-20
   event:
-    name: PIPELINE 2018, London,&nbsp;UK
+    name: "PIPELINE 2018, London,&nbsp;UK"
     url: https://pipelineconf.info/
   talk:
     name: Escaping 5 decades of monolithic annual releases
