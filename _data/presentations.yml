@@ -9,7 +9,8 @@
   slides_pdf_url:
   slides_ppt_url:
   video_url:
-  links_url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
 - name: JetBrains 2021 CLion webinar
   date: 2021-02-16
@@ -22,5 +23,6 @@
   slides_pdf_url:
   slides_ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
   video_url: https://www.youtube.com/watch?v=w2CzYK5ZJys
-  links_url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
+  links:
+    url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
 

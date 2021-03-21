@@ -40,7 +40,7 @@ layout: single
       </td>
       <td>{% if event.slides_ppt_url %} <a href="{{ event.slides_ppt_url }}">PPT</a> {% endif %} </td>
       <td>{% if event.video_url %} <a href="{{ event.video_url }}">Video</a> {% endif %} </td>
-      <td>{% if event.links_url %} <a href="{{ event.links_url }}">Links</a> {% endif %} </td>
+      <td>{% if event.links.url %} <a href="{{ event.links.url }}">Links</a> {% endif %}</td>
     </tr>
     {% endfor %}
   </table>
