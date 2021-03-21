@@ -79,7 +79,7 @@
   event:
     name: CppCon, Online
     url: https://cppcon.org
-  category: Code Samples that Actually Compile
+  category: Code Samples that Actually Compile (Lightning Talk)
   talk:
     name: Code Samples That Compile Even More Easily
   video:
@@ -130,7 +130,7 @@
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
-  category: Code Samples that Actually Compile
+  category: Code Samples that Actually Compile (Lightning Talk)
   talk:
     name: Code Samples that Actually Compile
   slides:
@@ -241,7 +241,7 @@
   event:
     name: "CppCon 2019, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
-  category: Code Samples that Actually Compile
+  category: Code Samples that Actually Compile (Lightning Talk)
   talk:
     name: Code Samples that Actually Compile
   slides:
