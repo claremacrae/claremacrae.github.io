@@ -39,6 +39,7 @@
   category: Testing Qt Desktop Applications
   talk:
     name: Quickly Testing Qt Desktop Applications with Approval Tests
+    url: https://meetingcpp.com/mcpp/online/talkview.php?tid=83
   slides:
     pdf_url: http://meetingcpp.com/mcpp/slides/2020/Quickly%20and%20Effectively%20Testing%20Qt%20Desktop%20Applications%20-%20Meeting%20Cpp%20Online%2020207787.pdf
   video:
