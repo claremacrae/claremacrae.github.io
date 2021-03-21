@@ -40,7 +40,5 @@ sidebar:
     children:
       - title: "Presentations"
         url: /conferences/presentations.html
-      - title: "Presentations as Table"
-        url: /conferences/presentations_table.html
       - title: "Bio"
         url: /conferences/bio.html
