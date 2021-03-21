@@ -31,12 +31,12 @@ layout: single
         {% endif %}
       </td>
       <td>
-        {% if event.talk_url %}
-          <a href="{{ event.talk_url }}">{{ event.talk_name }}</a>
+        {% if event.talk.url %}
+          <a href="{{ event.talk.url }}">{{ event.talk.name }}</a>
         {% else %}
-          {{ event.talk_name }}
+          {{ event.talk.name }}
         {% endif %}
-        {% if event.talk_notes %} <br>Note: <a href="{{ event.talk_notes_url }}">{{ event.talk_notes }}</a> {% endif %}
+        {% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}
       </td>
       <td>{% if event.slides.ppt_url %} <a href="{{ event.slides.ppt_url }}">PPT</a> {% endif %} </td>
       <td>{% if event.video.url %} <a href="{{ event.video.url }}">Video</a> {% endif %} </td>
