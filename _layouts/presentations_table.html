@@ -18,7 +18,20 @@ layout: single
     </tr>
   </thead>
   <tbody>
+    {% assign last_year = "undefined" %}
     {% for event in site.data.presentations %}
+    {% assign year = event.date | split:"-" | first %}
+    {% if year != last_year %}
+    <tr>
+      <td><strong>{{ year }}</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    {% endif %}
+    {% assign last_year = year %}
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
       <td>{% if event.event.url %}<a href="{{ event.event.url }}">{{ event.event.name }}</a>{% else %}{{ event.event.name }}{% endif %}</td>
