@@ -1,10 +1,24 @@
-- name: Eric Mill
-  github: konklone
+- name: ACCU 2021 talk
+  date: 2021-03-12
+  event_name: ACCU 2021, Online
+  event_url: https://conference.accu.org/
+  talk_title: "Keynote: Refactoring Superpowers: make your IDE do your work, faster and more safely."
+  talk_abstract_url: https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f
+  talk_notes: "(This talk was originally scheduled 2 days earlier)."
+  slides_pdf_url:
+  slides_ppt_url:
+  video_url:
+  links_url:
 
-- name: Parker Moore
-  github: parkr
+- name: JetBrains 2021 CLion webinar
+  date: 2021-02-16
+  event_name: JetBrains Webinar
+  event_url:
+  talk_title: "Testing Superpowers: Using CLion to add tests easily"
+  talk_abstract_url: https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/
+  talk_notes:
+  slides_pdf_url:
+  slides_ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
+  video_url: https://www.youtube.com/watch?v=w2CzYK5ZJys
+  links_url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
 
-- name: Liu Fengyun
-  github: liufengyun
-
-- name: Clare Macrae
