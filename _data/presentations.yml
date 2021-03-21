@@ -159,7 +159,7 @@
 - name: XXX
   date: 2020-06-23
   event:
-    name: Cpp Europe #4, Online
+    name: "Cpp Europe #4, Online"
     url: https://cppeurope.com
   talk:
     name: How to use Approval Tests for C++ Effectively
