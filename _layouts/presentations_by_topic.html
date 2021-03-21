@@ -22,9 +22,8 @@ layout: single
     </tr>
   </thead>
   <tbody>
-{% for category in categoryGroupsSorted %}
 
-
+  {% for category in categoryGroupsSorted %}
     <tr>
       <td><strong>{{ category.name }}</strong></td>
       <td> </td>
@@ -34,8 +33,8 @@ layout: single
       <td> </td>
     </tr>
 
-      {% assign talksOldestFirst = category.items | reverse %}
-      {% for event in talksOldestFirst %}
+    {% assign talksOldestFirst = category.items | reverse %}
+    {% for event in talksOldestFirst %}
 
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
@@ -45,7 +44,7 @@ layout: single
       <td>{% if event.video.url %}<a href="{{ event.video.url }}">Video</a>{% endif %}</td>
       <td>{% if event.links.url %}<a href="{{ event.links.url }}">Links</a>{% endif %} {% if event.links.github %}<a href="{{ event.links.github }}">GitHub</a>{% endif %}{% if event.links.trip_report_url %}<br /> <a href="{{ event.links.trip_report_url }}">Trip Report</a>{% endif %}</td>
     </tr>
-      {% endfor %}
+    {% endfor %}
 
     {% endfor %}
   </tbody>
