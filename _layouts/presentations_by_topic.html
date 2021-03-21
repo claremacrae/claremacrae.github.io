@@ -24,6 +24,9 @@ layout: single
   <tbody>
 
   {% for category in categoryGroupsSorted %}
+    {% if category.name == 'Cancelled' %}
+      {% continue %}
+    {% endif %}
     <tr>
       <td colspan="6"><strong>{{ category.name }}</strong></td>
     </tr>
