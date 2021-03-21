@@ -7,9 +7,9 @@ layout: single
 
   {% assign sorted = site.data.presentations | sort_natural: 'date' | reverse %}
 
-  <table>
+<table>
 
-    <thead>
+  <thead>
     <tr>
       <th>Date</th>
       <th>Event</th>
@@ -18,8 +18,8 @@ layout: single
       <th>Video</th>
       <th>Code / Links</th>
     </tr>
-    </thead>
-
+  </thead>
+  <tbody>
     {% for event in sorted %}
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
@@ -30,6 +30,7 @@ layout: single
       <td>{% if event.links.url %} <a href="{{ event.links.url }}">Links</a> {% endif %}</td>
     </tr>
     {% endfor %}
-  </table>
+  </tbody>
+</table>
 
 </div>
