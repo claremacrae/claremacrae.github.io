@@ -1,5 +1,4 @@
-- name: ACCU 2021 talk
-  date: 2021-03-12
+- date: 2021-03-12
   event:
     name: ACCU 2021, Online
     url: https://conference.accu.org/
@@ -16,8 +15,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
-- name: JetBrains 2021 CLion webinar
-  date: 2021-02-16
+- date: 2021-02-16
   event:
     name: JetBrains Webinar
     url:
@@ -34,8 +32,7 @@
   links:
     url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
 
-- name: XXX
-  date: 2020-12-03
+- date: 2020-12-03
   event:
     name: Meeting C++ Online
     url: https://meetingcpp.com/mcpp/online/
@@ -48,8 +45,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-- name: XXX
-  date: 2020-11-19
+- date: 2020-11-19
   event:
     name: QtDay 2020, Online
     url: https://www.qtday.it/
@@ -61,24 +57,21 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-- name: XXX
-  date: 2020-11
+- date: 2020-11
   event:
     name: "Online: 3, 10, 17 &amp; 24 Nov"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://bit.ly/LegacyCppNov2020
 
-- name: XXX
-  date: 2020-09
+- date: 2020-09
   event:
     name: "Online: 8, 15, 22 &amp; 29 Sept"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
 
-- name: XXX
-  date: 2020-09-16
+- date: 2020-09-16
   event:
     name: CppCon, Online
     url: https://cppcon.org
@@ -89,8 +82,7 @@
   links:
     github: https://github.com/claremacrae/Catch2/commit/45ca55202dd2adeeafd43f936d23610353712c9d
 
-- name: XXX
-  date: 2020-09-16
+- date: 2020-09-16
   event:
     name: CppCon, Online
     url: https://cppcon.org
@@ -104,8 +96,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-- name: XXX
-  date: 2020-08-06
+- date: 2020-08-06
   event:
     name: MUC++, Online
     url: https://www.meetup.com/MUCplusplus/
@@ -119,8 +110,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
 
-- name: XXX
-  date: 2020-07-22
+- date: 2020-07-22
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
@@ -128,8 +118,7 @@
     name: "Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco"
     url: https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html
 
-- name: XXX
-  date: 2020-07-16
+- date: 2020-07-16
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
@@ -140,8 +129,7 @@
   video:
     url: https://www.youtube.com/watch?v=KtxTlBeVYiE
 
-- name: XXX
-  date: 2020-07-15
+- date: 2020-07-15
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
@@ -156,8 +144,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
 
-- name: XXX
-  date: 2020-06-23
+- date: 2020-06-23
   event:
     name: "Cpp Europe #4, Online"
     url: https://cppeurope.com
@@ -171,32 +158,28 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/How_to_use_Approval_Tests_for_C++_Effectively.md#top
 
-- name: XXX
-  date: 2020-06-11
+- date: 2020-06-11
   event:
     name: "Craft, Budapest,&nbsp;Hungary"
     url: https://craft-conf.com
   talk:
     name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
-- name: XXX
-  date: 2020-05-05
+- date: 2020-05-05
   event:
     name: Cambridge Python User Group, UK
     url: https://www.meetup.com/CamPUG/
   talk:
     name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
-- name: XXX
-  date: 2020-03-26
+- date: 2020-03-26
   event:
     name: "ACCU 2020, Bristol,&nbsp;UK"
     url: https://conference.accu.org/
   talk:
     name: <del>Quickly Testing Legacy C++ Code with Approval Tests</del> (cancelled)
 
-- name: XXX
-  date: 2020-02-25
+- date: 2020-02-25
   event:
     name: "Cpp Europe 2020, Bucharest,&nbsp;Romania"
     url: https://cppeurope.com
@@ -211,8 +194,7 @@
     url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
     trip_report_url: /blog/2020/03/cppeurope-2020
 
-- name: XXX
-  date: 2019-11-21
+- date: 2019-11-21
   event:
     name: C++ London, UK
     url: https://www.meetup.com/CppLondon/
@@ -226,8 +208,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
 
-- name: XXX
-  date: 2019-11-15
+- date: 2019-11-15
   event:
     name: "Meeting C++ 2019, Berlin,&nbsp;Germany"
     url: https://meetingcpp.com/2019/
@@ -239,8 +220,7 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-- name: XXX
-  date: 2019-09-18
+- date: 2019-09-18
   event:
     name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
@@ -252,8 +232,7 @@
   video:
     url: https://www.youtube.com/watch?v=8mkHhwGkbXg
 
-- name: XXX
-  date: 2019-09-16
+- date: 2019-09-16
   event:
     name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
@@ -268,8 +247,7 @@
   links:
     github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-cppcon
 
-- name: XXX
-  date: 2019-09-04
+- date: 2019-09-04
   event:
     name: ACCU Cambridge, UK
     url: https://www.meetup.com/ACCU-Cambridge/
@@ -281,8 +259,7 @@
   links:
     github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-accu-cambridge
 
-- name: XXX
-  date: 2019-06-15
+- date: 2019-06-15
   event:
     name: "CPPP 2019, Paris,&nbsp;France"
     url: https://cppp.fr/
@@ -297,8 +274,7 @@
   links:
     github: https://github.com/claremacrae/cppp2019
 
-- name: XXX
-  date: 2019-04-25
+- date: 2019-04-25
   event:
     name: ACCU York, UK
     url: https://www.meetup.com/ACCU-York/
@@ -310,8 +286,7 @@
   links:
     github: https://github.com/claremacrae/cpponsea2019/tree/accu_york_2019
 
-- name: XXX
-  date: 2019-02-05
+- date: 2019-02-05
   event:
     name: "C++ on Sea, Folkstone,&nbsp;UK"
     url: https://cpponsea.uk/
@@ -326,8 +301,7 @@
   links:
     github: https://github.com/claremacrae/cpponsea2019
 
-- name: XXX
-  date: 2018-03-20
+- date: 2018-03-20
   event:
     name: "PIPELINE 2018, London,&nbsp;UK"
     url: https://pipelineconf.info/
