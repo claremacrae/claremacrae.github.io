@@ -11,8 +11,8 @@ layout: single
   <li>{{ category.name }}
     <ul>
       {% assign talksOldestFirst = category.items | reverse %}
-      {% for t in talksOldestFirst %}
-      <li>{{ t.date }} {{ t.talk.name }}</li>
+      {% for event in talksOldestFirst %}
+      <li>{{ event.date }} {{ event.talk.name }}</li>
       {% endfor %}
     </ul>
   </li>
