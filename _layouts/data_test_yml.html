@@ -5,8 +5,10 @@ layout: default
 
 <div id="main" role="main">
 
+  {% assign sorted = site.data.members_yml | sort_natural: 'Name' %}
+
 <ul>
-{% for member in site.data.members_yml %}
+{% for member in sorted %}
   <li>
     <a href="https://github.com/{{ member.github }}">
       {{ member.name }}
@@ -24,7 +26,7 @@ layout: default
     </tr>
     </thead>
 
-    {% for member in site.data.members_yml %}
+    {% for member in sorted %}
     <tr>
       <td>
         {% if member.github %}<a href="https://github.com/{{ member.github }}">{{ member.name }}</a>{% endif %}
