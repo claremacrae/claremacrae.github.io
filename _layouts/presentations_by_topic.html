@@ -10,8 +10,8 @@ layout: single
 {% for category in categoryGroupsSorted %}
   <li>{{ category.name }}
     <ul>
-      {% assign yearTitlesSorted = category.items | reverse %}
-      {% for t in yearTitlesSorted %}
+      {% assign talksOldestFirst = category.items | reverse %}
+      {% for t in talksOldestFirst %}
       <li>{{ t.date }} {{ t.talk.name }}</li>
       {% endfor %}
     </ul>
