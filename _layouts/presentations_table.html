@@ -24,10 +24,10 @@ layout: single
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
       <td>
-        {% if event.event_url %}
-          <a href="{{ event.event_url }}">{{ event.event_name }}</a>
+        {% if event.event.url %}
+          <a href="{{ event.event.url }}">{{ event.event.name }}</a>
         {% else %}
-          {{ event.event_name }}
+          {{ event.event.name }}
         {% endif %}
       </td>
       <td>
