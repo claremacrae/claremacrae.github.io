@@ -23,21 +23,8 @@ layout: single
     {% for event in sorted %}
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
-      <td>
-        {% if event.event.url %}
-          <a href="{{ event.event.url }}">{{ event.event.name }}</a>
-        {% else %}
-          {{ event.event.name }}
-        {% endif %}
-      </td>
-      <td>
-        {% if event.talk.url %}
-          <a href="{{ event.talk.url }}">{{ event.talk.name }}</a>
-        {% else %}
-          {{ event.talk.name }}
-        {% endif %}
-        {% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}
-      </td>
+      <td>{% if event.event.url %}<a href="{{ event.event.url }}">{{ event.event.name }}</a>{% else %}{{ event.event.name }}{% endif %}</td>
+      <td>{% if event.talk.url %}<a href="{{ event.talk.url }}">{{ event.talk.name }}</a>{% else %}{{ event.talk.name }}{% endif %}{% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}</td>
       <td>{% if event.slides.ppt_url %} <a href="{{ event.slides.ppt_url }}">PPT</a> {% endif %} </td>
       <td>{% if event.video.url %} <a href="{{ event.video.url }}">Video</a> {% endif %} </td>
       <td>{% if event.links.url %} <a href="{{ event.links.url }}">Links</a> {% endif %}</td>
