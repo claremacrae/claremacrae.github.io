@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+
+<div id="main" role="main">
+
+<ul>
+{% for member in site.data.members_yml %}
+  <li>
+    <a href="https://github.com/{{ member.github }}">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+  <table>
+
+    <thead>
+    <tr>
+      <th scope="col">GitHub</th>
+      <th scope="col">Name</th>
+    </tr>
+    </thead>
+
+    {% for member in site.data.members_yml %}
+    <tr>
+      <td>
+        {% if member.github %}<a href="https://github.com/{{ member.github }}">{{ member.name }}</a>{% endif %}
+      </td>
+      <td>{{ member.name }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+</div>
