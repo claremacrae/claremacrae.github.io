@@ -34,3 +34,330 @@
   links:
     url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
 
+- name: XXX
+  date: 2020-12-03
+  event:
+    name: Meeting C++ Online
+    url: https://meetingcpp.com/mcpp/online/
+  talk:
+    name: Quickly Testing Qt Desktop Applications with Approval Tests
+  slides:
+    pdf_url: http://meetingcpp.com/mcpp/slides/2020/Quickly%20and%20Effectively%20Testing%20Qt%20Desktop%20Applications%20-%20Meeting%20Cpp%20Online%2020207787.pdf
+  video:
+    url: https://youtu.be/jwixAjDH2Ik
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
+
+
+- name: XXX
+  date: 2020-11-19
+  event:
+    name: QtDay 2020, Online
+    url: https://www.qtday.it/
+  talk:
+    name: Quickly and Effectively Testing Qt Desktop Applications
+    url: https://www.qtday.it/agenda/speakers/573234
+  video:
+    url: https://www.youtube.com/watch?v=XE4_D1ddtQg
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
+
+
+- name: XXX
+  date: 2020-11
+  event:
+    name:| Online: 3, 10, 17 & 24 Nov
+  talk:
+    name: "Workshop: Testing Legacy Code effectively with Approval Tests"
+    url: https://bit.ly/LegacyCppNov2020
+
+
+- name: XXX
+  date: 2020-09
+  event:
+    name:| Online: 8, 15, 22 & 29 Sept
+  talk:
+    name: "Workshop: Testing Legacy Code effectively with Approval Tests"
+    url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
+
+
+- name: XXX
+  date: 2020-09-16
+  event:
+    name: CppCon, Online
+    url: https://cppcon.org
+  talk:
+    name: Code Samples That Compile Even More Easily
+  video:
+    url: https://youtu.be/aw2mQKXhgvU
+  links:
+    github: https://github.com/claremacrae/Catch2/commit/45ca55202dd2adeeafd43f936d23610353712c9d
+
+
+- name: XXX
+  date: 2020-09-16
+  event:
+    name: CppCon, Online
+    url: https://cppcon.org
+  talk:
+    name: Quickly Testing Qt Desktop Applications with Approval Tests
+    url: https://cppcon2020.sched.com/event/e7BA/quickly-testing-qt-desktop-applications-with-approval-tests
+  slides:
+    pdf_url: https://github.com/CppCon/CppCon2020/raw/main/Presentations/quickly_testing_qt_desktop_applications_with_approval_tests/quickly_testing_qt_desktop_applications_with_approval_tests__clare_macrae__cppcon_2020.pdf
+  video:
+    url: https://youtu.be/J27HoZM_PTI
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
+
+
+- name: XXX
+  date: 2020-08-06
+  event:
+    name: MUC++, Online
+    url: https://www.meetup.com/MUCplusplus/
+  talk:
+    name: Quickly and Effectively Testing Legacy C++ Code with Approval Tests
+    url: https://www.meetup.com/MUCplusplus/events/272038301/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-and-effectively-testing-legacy-c-code-with-approval-tests-mu-cpp
+  video:
+    url: https://youtu.be/vtWnqqSUzrY
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
+
+
+- name: XXX
+  date: 2020-07-22
+  event:
+    name: C++ on Sea, Online
+    url: https://cpponsea.uk/
+  talk:
+    name: "Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco"
+    url: https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html
+
+
+- name: XXX
+  date: 2020-07-16
+  event:
+    name: C++ on Sea, Online
+    url: https://cpponsea.uk/
+  talk:
+    name: Code Samples that Actually Compile
+  slides:
+    pdf_url: https://github.com/philsquared/cpponsea-slides/blob/master/2020/LightningTalks/Clare%20Macrae%20-%20Code%20Samples%20that%20Actually%20Compile.pdf
+  video:
+    url: https://www.youtube.com/watch?v=KtxTlBeVYiE
+
+
+- name: XXX
+  date: 2020-07-15
+  event:
+    name: C++ on Sea, Online
+    url: https://cpponsea.uk/
+  talk:
+    name: Quickly and Effectively Testing Legacy C++ Code with Approval Tests
+    url: https://cpponsea.uk/2020/sessions/quickly-and-effectively-testing-legacy-cpp-code-with-approval-tests.html
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-and-effectively-testing-legacy-c-code-with-approval-tests
+    pdf_url: https://github.com/philsquared/cpponsea-slides/blob/master/2020/Clare%20Macrae%20-%20Quickly%20and%20Effectively%20Testing%20Legacy%20C%2B%2B%20Code%20with%20Approval%20Tests/QuicklyAndEffectivelyTestingLegacyC%2B%2B.pdf
+  video:
+    url: https://www.youtube.com/watch?v=tXEuf_3VzRE
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
+
+
+- name: XXX
+  date: 2020-06-23
+  event:
+    name: Cpp Europe #4, Online
+    url: https://cppeurope.com
+  talk:
+    name: How to use Approval Tests for C++ Effectively
+    url: https://cppeurope.com/sessions/session-with-clare-macrae/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/how-to-use-approval-tests-for-c-effectively
+  video:
+    url: https://www.youtube.com/watch?v=F8ROAhheRvc
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/How_to_use_Approval_Tests_for_C++_Effectively.md#top
+
+
+- name: XXX
+  date: 2020-06-11
+  event:
+    name: Craft, Budapest,&nbsp;Hungary
+    url: https://craft-conf.com
+  talk:
+    name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
+
+
+- name: XXX
+  date: 2020-05-05
+  event:
+    name: Cambridge Python User Group, UK
+    url: https://www.meetup.com/CamPUG/
+  talk:
+    name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
+
+
+- name: XXX
+  date: 2020-03-26
+  event:
+    name: ACCU 2020, Bristol,&nbsp;UK
+    url: https://conference.accu.org/
+  talk:
+    name: Quickly Testing Legacy C++ Code with Approval Tests (cancelled)
+
+
+- name: XXX
+  date: 2020-02-25
+  event:
+    name: Cpp Europe 2020, Bucharest,&nbsp;Romania
+    url: https://cppeurope.com
+  talk:
+    name: C++ Testing Techniques, Tips and Tricks
+    url: https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/cpp-testing-techniques-tips-and-tricks-cpp-europe
+  video:
+    url: https://www.youtube.com/watch?v=-5N-u34L7wo&list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH&index=10&t=0s
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
+    trip_report_url: /blog/2020/03/cppeurope-2020
+
+
+- name: XXX
+  date: 2019-11-21
+  event:
+    name: C++ London, UK
+    url: https://www.meetup.com/CppLondon/
+  talk:
+    name: C++ Testing Techniques, Tips and Tricks
+    url: https://www.meetup.com/CppLondon/events/265146936/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/c-testing-techniques-tips-and-tricks-c-london
+  video:
+    url: https://www.youtube.com/watch?v=j3prZoR8c_c
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
+
+
+- name: XXX
+  date: 2019-11-15
+  event:
+    name: Meeting C++ 2019, Berlin,&nbsp;Germany
+    url: https://meetingcpp.com/2019/
+  talk:
+    name: Quickly Testing Qt Desktop Applications
+    url: https://meetingcpp.com/2019/Talks/items/Quickly_Testing_Qt_Desktop_Applications.html
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-qt-desktop-applications
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
+
+
+- name: XXX
+  date: 2019-09-18
+  event:
+    name: CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA
+    url: https://cppcon.org/
+  talk:
+    name: Code Samples that Actually Compile
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/code-samples-that-actually-compile-clare-macrae-179736904
+    pdf_url: https://github.com/CppCon/CppCon2019/raw/master/Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf
+  video:
+    url: https://www.youtube.com/watch?v=8mkHhwGkbXg
+
+
+- name: XXX
+  date: 2019-09-16
+  event:
+    name: CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA
+    url: https://cppcon.org/
+  talk:
+    name: Quickly Testing Legacy C++ Code with Approval Tests
+    url: https://cppcon2019.sched.com/event/Sfdj/quickly-testing-legacy-c-code-with-approval-tests
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-c-code-with-approval-tests
+    pdf_url: https://github.com/CppCon/CppCon2019/tree/master/Presentations/quickly_testing_legacy_cpp_code_with_approval_tests
+  video:
+    url: https://www.youtube.com/watch?v=3GZHvcdq32s
+  links:
+    github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-cppcon
+
+
+- name: XXX
+  date: 2019-09-04
+  event:
+    name: ACCU Cambridge, UK
+    url: https://www.meetup.com/ACCU-Cambridge/
+  talk:
+    name: Quickly Testing Legacy C++ Code with Approval Tests
+    url: https://www.meetup.com/ACCU-Cambridge/events/262761572/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-cpp-code-accu-cam-2019
+  links:
+    github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-accu-cambridge
+
+
+- name: XXX
+  date: 2019-06-15
+  event:
+    name: CPPP 2019, Paris,&nbsp;France
+    url: https://cppp.fr/
+  talk:
+    name: Quickly Testing Legacy Code
+    url: https://cppp.fr/index.php?L=0&id=20#talk.ClareMacrae
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-cpppfr-2019-clare-macrae
+    pdf_url: https://github.com/cppp-france/CPPP-19/tree/master/quickly_testing_legacy_code-Clare_Macrae
+  video:
+    url: https://www.youtube.com/watch?v=JnoNTc-BmB8
+  links:
+    github: https://github.com/claremacrae/cppp2019
+
+
+- name: XXX
+  date: 2019-04-25
+  event:
+    name: ACCU York, UK
+    url: https://www.meetup.com/ACCU-York/
+  talk:
+    name: Quickly Testing Legacy Code
+    url: https://www.meetup.com/ACCU-York/events/259156413/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-accu-york-april-2019
+  links:
+    github: https://github.com/claremacrae/cpponsea2019/tree/accu_york_2019
+
+
+- name: XXX
+  date: 2019-02-05
+  event:
+    name: C++ on Sea, Folkstone,&nbsp;UK
+    url: https://cpponsea.uk/
+  talk:
+    name: Quickly Testing Legacy Code
+    url: https://cpponsea.uk/2019/sessions/quickly-testing-legacy-code.html
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code
+    pdf_url: https://github.com/philsquared/cpponsea-slides/raw/master/2019/Clare%20Macrae%20-%20Quickly%20Testing%20Legacy%20Code.pdf
+  video:
+    url: https://www.youtube.com/watch?v=dtm8V3TIB6k
+  links:
+    github: https://github.com/claremacrae/cpponsea2019
+
+
+- name: XXX
+  date: 2018-03-20
+  event:
+    name: PIPELINE 2018, London,&nbsp;UK
+    url: https://pipelineconf.info/
+  talk:
+    name: Escaping 5 decades of monolithic annual releases
+    url: https://pipelineconf.info/pipeline-speakers/clare-macrae/
+  slides:
+    ppt_url: https://www.slideshare.net/ClareMacrae/escaping-5-decades-of-monolithic-annual-releases-91187595
+  video:
+    url: https://www.youtube.com/watch?v=dxXNvRvBzgM
