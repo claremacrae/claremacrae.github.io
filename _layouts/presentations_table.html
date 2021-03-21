@@ -25,9 +25,9 @@ layout: single
       <td>{{ event.date }}</td>
       <td>{{ event.event_name }}</td>
       <td>{{ event.talk_title }}</td>
-      <td>{% if event.slides_ppt_url %} {{ event.slides_ppt_url }} {% endif %} </td>
-      <td>{% if event.video_url %} {{ event.video_url }} {% endif %} </td>
-      <td>{% if event.links_url %} {{ event.links_url }} {% endif %} </td>
+      <td>{% if event.slides_ppt_url %} <a href="{{ event.slides_ppt_url }}">PPT</a> {% endif %} </td>
+      <td>{% if event.video_url %} <a href="{{ event.video_url }}">Video</a> {% endif %} </td>
+      <td>{% if event.links_url %} <a href="{{ event.links_url }}">Links</a> {% endif %} </td>
     </tr>
     {% endfor %}
   </table>
