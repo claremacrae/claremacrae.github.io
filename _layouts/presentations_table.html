@@ -22,7 +22,7 @@ layout: single
 
     {% for event in sorted %}
     <tr>
-      <td>{{ event.date }}</td>
+      <td><span class="text-tabular-dates">{{ event.date }}</span></td>
       <td>{{ event.event_name }}</td>
       <td>{{ event.talk_title }}</td>
       <td>{% if event.slides_ppt_url %} <a href="{{ event.slides_ppt_url }}">PPT</a> {% endif %} </td>
