@@ -4,10 +4,10 @@ layout: single
 
 <h2>Ordered</h2>
 
-{% assign category = site.data.presentations | group_by: "category" %}
-{% assign categorySorted = category | sort: "name" %}
+{% assign categoryGroups = site.data.presentations | group_by: "category" %}
+{% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
 <ul>
-{% for y in categorySorted %}
+{% for y in categoryGroupsSorted %}
   <li>{{ y.name }}
     <ul>
       {% assign yearTitlesSorted = y.items | reverse %}
