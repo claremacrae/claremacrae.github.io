@@ -1,7 +1,7 @@
 ---
 layout: presentations_table
 toc: false
-title: "Presentations"
+title: "Presentations by Date"
 classes: wide
 read_time: false
 ---

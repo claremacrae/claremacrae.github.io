@@ -38,7 +38,7 @@ sidebar:
         url: /feed.xml
   - title: Conferences
     children:
-      - title: "Presentations"
+      - title: "Presentations by Date"
         url: /conferences/presentations.html
       - title: "Presentations by Topic"
         url: /conferences/presentations_by_topic.html
