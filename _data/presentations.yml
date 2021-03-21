@@ -6,9 +6,11 @@
   talk_url: https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f
   talk_notes: "This talk was originally scheduled 2 days earlier."
   talk_notes_url: https://accu.org/conf-news/2021/2021-03-09-accu2021keynotechange/
-  slides_pdf_url:
-  slides_ppt_url:
-  video_url:
+  slides:
+    pdf_url:
+    ppt_url:
+  video:
+    url:
   links:
     url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
@@ -20,9 +22,11 @@
   talk_url: https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/
   talk_notes:
   talk_notes_url:
-  slides_pdf_url:
-  slides_ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
-  video_url: https://www.youtube.com/watch?v=w2CzYK5ZJys
+  slides:
+    pdf_url:
+    ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
+  video:
+    url: https://www.youtube.com/watch?v=w2CzYK5ZJys
   links:
     url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
 
