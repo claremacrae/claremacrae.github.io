@@ -7,10 +7,10 @@ layout: single
 {% assign categoryGroups = site.data.presentations | group_by: "category" %}
 {% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
 <ul>
-{% for y in categoryGroupsSorted %}
-  <li>{{ y.name }}
+{% for category in categoryGroupsSorted %}
+  <li>{{ category.name }}
     <ul>
-      {% assign yearTitlesSorted = y.items | reverse %}
+      {% assign yearTitlesSorted = category.items | reverse %}
       {% for t in yearTitlesSorted %}
       <li>{{ t.date }} {{ t.talk.name }}</li>
       {% endfor %}
