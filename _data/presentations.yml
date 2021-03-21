@@ -4,7 +4,8 @@
   event_url: https://conference.accu.org/
   talk_name: "Keynote: Refactoring Superpowers: make your IDE do your work, faster and more safely."
   talk_url: https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Entry.ItemPage.12093.0.EntryDefinition.47deede7-bda4-4df8-8a2a-6692bc080d7f
-  talk_notes: "(This talk was originally scheduled 2 days earlier)."
+  talk_notes: "This talk was originally scheduled 2 days earlier."
+  talk_notes_url: https://accu.org/conf-news/2021/2021-03-09-accu2021keynotechange/
   slides_pdf_url:
   slides_ppt_url:
   video_url:
@@ -17,6 +18,7 @@
   talk_name: "Testing Superpowers: Using CLion to add tests easily"
   talk_url: https://blog.jetbrains.com/clion/2021/02/live-webinar-testing-superpowers/
   talk_notes:
+  talk_notes_url:
   slides_pdf_url:
   slides_ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
   video_url: https://www.youtube.com/watch?v=w2CzYK5ZJys

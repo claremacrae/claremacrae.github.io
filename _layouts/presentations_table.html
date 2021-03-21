@@ -36,6 +36,7 @@ layout: single
         {% else %}
           {{ event.talk_name }}
         {% endif %}
+        {% if event.talk_notes %} <br>Note: <a href="{{ event.talk_notes_url }}">{{ event.talk_notes }}</a> {% endif %}
       </td>
       <td>{% if event.slides_ppt_url %} <a href="{{ event.slides_ppt_url }}">PPT</a> {% endif %} </td>
       <td>{% if event.video_url %} <a href="{{ event.video_url }}">Video</a> {% endif %} </td>
