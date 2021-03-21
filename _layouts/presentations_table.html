@@ -23,8 +23,20 @@ layout: single
     {% for event in sorted %}
     <tr>
       <td><span class="text-tabular-dates">{{ event.date }}</span></td>
-      <td>{{ event.event_name }}</td>
-      <td>{{ event.talk_title }}</td>
+      <td>
+        {% if event.event_url %}
+          <a href="{{ event.event_url }}">{{ event.event_name }}</a>
+        {% else %}
+          {{ event.event_name }}
+        {% endif %}
+      </td>
+      <td>
+        {% if event.talk_url %}
+          <a href="{{ event.talk_url }}">{{ event.talk_name }}</a>
+        {% else %}
+          {{ event.talk_name }}
+        {% endif %}
+      </td>
       <td>{% if event.slides_ppt_url %} <a href="{{ event.slides_ppt_url }}">PPT</a> {% endif %} </td>
       <td>{% if event.video_url %} <a href="{{ event.video_url }}">Video</a> {% endif %} </td>
       <td>{% if event.links_url %} <a href="{{ event.links_url }}">Links</a> {% endif %} </td>
