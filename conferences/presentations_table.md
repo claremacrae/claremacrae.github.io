@@ -1,7 +1,7 @@
 ---
 layout: presentations_table
 toc: false
-title: "data test"
+title: "Presentations"
 classes: wide
 read_time: false
 ---
