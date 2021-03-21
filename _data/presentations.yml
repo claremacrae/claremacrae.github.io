@@ -48,7 +48,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-
 - name: XXX
   date: 2020-11-19
   event:
@@ -62,7 +61,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-
 - name: XXX
   date: 2020-11
   event:
@@ -71,7 +69,6 @@
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://bit.ly/LegacyCppNov2020
 
-
 - name: XXX
   date: 2020-09
   event:
@@ -79,7 +76,6 @@
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
-
 
 - name: XXX
   date: 2020-09-16
@@ -92,7 +88,6 @@
     url: https://youtu.be/aw2mQKXhgvU
   links:
     github: https://github.com/claremacrae/Catch2/commit/45ca55202dd2adeeafd43f936d23610353712c9d
-
 
 - name: XXX
   date: 2020-09-16
@@ -109,7 +104,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-
 - name: XXX
   date: 2020-08-06
   event:
@@ -125,7 +119,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
 
-
 - name: XXX
   date: 2020-07-22
   event:
@@ -134,7 +127,6 @@
   talk:
     name: "Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco"
     url: https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html
-
 
 - name: XXX
   date: 2020-07-16
@@ -147,7 +139,6 @@
     pdf_url: https://github.com/philsquared/cpponsea-slides/blob/master/2020/LightningTalks/Clare%20Macrae%20-%20Code%20Samples%20that%20Actually%20Compile.pdf
   video:
     url: https://www.youtube.com/watch?v=KtxTlBeVYiE
-
 
 - name: XXX
   date: 2020-07-15
@@ -165,7 +156,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_and_Effectively_Testing_Legacy_C++_Code_with_Approval_Tests.md#top
 
-
 - name: XXX
   date: 2020-06-23
   event:
@@ -181,7 +171,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/How_to_use_Approval_Tests_for_C++_Effectively.md#top
 
-
 - name: XXX
   date: 2020-06-11
   event:
@@ -189,7 +178,6 @@
     url: https://craft-conf.com
   talk:
     name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
-
 
 - name: XXX
   date: 2020-05-05
@@ -199,7 +187,6 @@
   talk:
     name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
 
-
 - name: XXX
   date: 2020-03-26
   event:
@@ -207,7 +194,6 @@
     url: https://conference.accu.org/
   talk:
     name: Quickly Testing Legacy C++ Code with Approval Tests (cancelled)
-
 
 - name: XXX
   date: 2020-02-25
@@ -225,7 +211,6 @@
     url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
     trip_report_url: /blog/2020/03/cppeurope-2020
 
-
 - name: XXX
   date: 2019-11-21
   event:
@@ -241,7 +226,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
 
-
 - name: XXX
   date: 2019-11-15
   event:
@@ -255,7 +239,6 @@
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
 
-
 - name: XXX
   date: 2019-09-18
   event:
@@ -268,7 +251,6 @@
     pdf_url: https://github.com/CppCon/CppCon2019/raw/master/Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf
   video:
     url: https://www.youtube.com/watch?v=8mkHhwGkbXg
-
 
 - name: XXX
   date: 2019-09-16
@@ -286,7 +268,6 @@
   links:
     github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-cppcon
 
-
 - name: XXX
   date: 2019-09-04
   event:
@@ -299,7 +280,6 @@
     ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-cpp-code-accu-cam-2019
   links:
     github: https://github.com/claremacrae/ApprovalTests.cpp.Demos/tree/2019-09-accu-cambridge
-
 
 - name: XXX
   date: 2019-06-15
@@ -317,7 +297,6 @@
   links:
     github: https://github.com/claremacrae/cppp2019
 
-
 - name: XXX
   date: 2019-04-25
   event:
@@ -330,7 +309,6 @@
     ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-accu-york-april-2019
   links:
     github: https://github.com/claremacrae/cpponsea2019/tree/accu_york_2019
-
 
 - name: XXX
   date: 2019-02-05
@@ -347,7 +325,6 @@
     url: https://www.youtube.com/watch?v=dtm8V3TIB6k
   links:
     github: https://github.com/claremacrae/cpponsea2019
-
 
 - name: XXX
   date: 2018-03-20
