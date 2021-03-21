@@ -220,7 +220,7 @@
 
 - date: 2019-09-18
   event:
-    name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
+    name: "CppCon 2019, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
   talk:
     name: Code Samples that Actually Compile
@@ -232,7 +232,7 @@
 
 - date: 2019-09-16
   event:
-    name: "CppCon 2019 Conference, Aurora,&nbsp;CO,&nbsp;USA"
+    name: "CppCon 2019, Aurora,&nbsp;CO,&nbsp;USA"
     url: https://cppcon.org/
   talk:
     name: Quickly Testing Legacy C++ Code with Approval Tests
