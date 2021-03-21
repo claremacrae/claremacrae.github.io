@@ -54,7 +54,6 @@
   category: Testing Qt Desktop Applications
   talk:
     name: Quickly and Effectively Testing Qt Desktop Applications
-    url: https://www.qtday.it/agenda/speakers/573234
   video:
     url: https://www.youtube.com/watch?v=XE4_D1ddtQg
   links:
@@ -201,7 +200,7 @@
   category: C++ Testing Techniques, Tips and Tricks
   talk:
     name: C++ Testing Techniques, Tips and Tricks
-    url: https://cppeurope.com/sessions/cpp-testing-techniques-tips-and-tricks/
+    url: https://cppeurope.com/sessions/c-testing-techniques-tips-and-tricks/
   slides:
     ppt_url: https://www.slideshare.net/ClareMacrae/cpp-testing-techniques-tips-and-tricks-cpp-europe
   video:
@@ -287,7 +286,7 @@
   category: Testing Legacy C++ Code with Approval Tests
   talk:
     name: Quickly Testing Legacy Code
-    url: "https://cppp.fr/index.php?L=0&amp;id=20#talk.ClareMacrae"
+    url: "https://cppp.fr/schedule2019/#session-206"
   slides:
     ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-cpppfr-2019-clare-macrae
     pdf_url: https://github.com/cppp-france/CPPP-19/tree/master/quickly_testing_legacy_code-Clare_Macrae
