@@ -177,7 +177,7 @@
     name: Craft, Budapest,&nbsp;Hungary
     url: https://craft-conf.com
   talk:
-    name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
+    name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
 - name: XXX
   date: 2020-05-05
@@ -185,7 +185,7 @@
     name: Cambridge Python User Group, UK
     url: https://www.meetup.com/CamPUG/
   talk:
-    name: "Patterns for better automated testing: Learning with Approval Tests (cancelled)"
+    name: "<del>Patterns for better automated testing: Learning with Approval Tests</del> (cancelled)"
 
 - name: XXX
   date: 2020-03-26
@@ -193,7 +193,7 @@
     name: ACCU 2020, Bristol,&nbsp;UK
     url: https://conference.accu.org/
   talk:
-    name: Quickly Testing Legacy C++ Code with Approval Tests (cancelled)
+    name: <del>Quickly Testing Legacy C++ Code with Approval Tests</del> (cancelled)
 
 - name: XXX
   date: 2020-02-25
