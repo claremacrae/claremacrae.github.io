@@ -1,5 +1,5 @@
 ---
-layout: data_test_yml
+layout: presentations_table
 toc: false
 title: "data test"
 classes: wide
