@@ -57,7 +57,6 @@ For understanding the Jekyll variables availble during build...
     "help_url": "{{ site.github.help_url }}",
     "environment": "{{ site.github.environment }}",
     "pages_env": "{{ site.github.pages_env }}",
-    "public_repositories": [ {{ site.github.public_repositories }} ],
     "organization_members": [ {{ site.github.organization_members }} ],
     "build_revision": "{{ site.github.build_revision }}",
     "project_title": "{{ site.github.project_title }}",
