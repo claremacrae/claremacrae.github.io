@@ -25,12 +25,7 @@ layout: single
 
   {% for category in categoryGroupsSorted %}
     <tr>
-      <td><strong>{{ category.name }}</strong></td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="6"><strong>{{ category.name }}</strong></td>
     </tr>
 
     {% assign talksOldestFirst = category.items | reverse %}
