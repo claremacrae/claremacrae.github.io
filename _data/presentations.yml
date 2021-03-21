@@ -206,7 +206,7 @@
   slides:
     ppt_url: https://www.slideshare.net/ClareMacrae/cpp-testing-techniques-tips-and-tricks-cpp-europe
   video:
-    url: https://www.youtube.com/watch?v=-5N-u34L7wo&list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH&index=10&t=0s
+    url: "https://www.youtube.com/watch?v=-5N-u34L7wo&amp;list=PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH&amp;index=10&amp;t=0s"
   links:
     url: https://github.com/claremacrae/talks/blob/main/Cpp_Testing_Techniques_Tips_and_Tricks.md#top
     trip_report_url: /blog/2020/03/cppeurope-2020
@@ -288,7 +288,7 @@
     url: https://cppp.fr/
   talk:
     name: Quickly Testing Legacy Code
-    url: https://cppp.fr/index.php?L=0&id=20#talk.ClareMacrae
+    url: "https://cppp.fr/index.php?L=0&amp;id=20#talk.ClareMacrae"
   slides:
     ppt_url: https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-cpppfr-2019-clare-macrae
     pdf_url: https://github.com/cppp-france/CPPP-19/tree/master/quickly_testing_legacy_code-Clare_Macrae
