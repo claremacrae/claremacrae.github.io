@@ -11,16 +11,7 @@ layout: single
 
 <table>
 
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Event</th>
-      <th>Title and Abstract</th>
-      <th>Slides</th>
-      <th>Video</th>
-      <th>Code / Links</th>
-    </tr>
-  </thead>
+  {% include /presentations/completed-presentation-head.html %}
   <tbody>
 
   {% for category in categoryGroupsSorted %}
@@ -34,14 +25,7 @@ layout: single
     {% assign talksOldestFirst = category.items | reverse %}
     {% for event in talksOldestFirst %}
 
-    <tr>
-      <td><span class="text-tabular-dates">{{ event.date }}</span></td>
-      <td>{% if event.event.url %}<a href="{{ event.event.url }}">{{ event.event.name }}</a>{% else %}{{ event.event.name }}{% endif %}</td>
-      <td>{% if event.talk.url %}<a href="{{ event.talk.url }}">{{ event.talk.name }}</a>{% else %}{{ event.talk.name }}{% endif %}{% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}</td>
-      <td>{% if event.slides.ppt_url %}<a href="{{ event.slides.ppt_url }}">PPT</a>{% endif %} {% if event.slides.pdf_url %}<a href="{{ event.slides.pdf_url }}">PDF</a>{% endif %}</td>
-      <td>{% if event.video.url %}<a href="{{ event.video.url }}">Video</a>{% endif %}</td>
-      <td>{% if event.links.url %}<a href="{{ event.links.url }}">Links</a>{% endif %} {% if event.links.github %}<a href="{{ event.links.github }}">GitHub</a>{% endif %}{% if event.links.trip_report_url %}<br /> <a href="{{ event.links.trip_report_url }}">Trip Report</a>{% endif %}</td>
-    </tr>
+    {% include /presentations/completed-presentation-talk-row.html %}
     {% endfor %}
 
     {% endfor %}
