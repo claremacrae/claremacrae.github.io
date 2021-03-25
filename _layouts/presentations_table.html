@@ -11,11 +11,6 @@ layout: single
     {% assign last_year = "undefined" %}
     {% for event in site.data.presentations %}
     {% assign year = event.date | split:"-" | first %}
-    {% if year != last_year %}
-    <tr>
-      <td colspan="6"><strong>{{ year }}</strong></td>
-    </tr>
-    {% endif %}
     {% assign last_year = year %}
 <!--    {% include /presentations/upcoming-presentation-talk-row.html %}-->
     {% endfor %}
