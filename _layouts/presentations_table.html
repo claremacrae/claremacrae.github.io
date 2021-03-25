@@ -21,15 +21,17 @@ layout: single
 
 {% include /presentations/see-also.html %}
 
+{% assign relevantTalks = site.data.presentations
+  | where_exp:'event','event.upcoming != true'
+%}
+<!--{% assign categoryGroups = relevantTalks | group_by: "category" %}-->
+<!--{% assign categoryGroupsSorted = categoryGroups | sort: "name" %}-->
+
 <table>
   {% include /presentations/completed-presentation-head.html %}
   <tbody>
     {% assign last_year = "undefined" %}
-    {% for event in site.data.presentations %}
-
-    {% if event.upcoming %}
-      {% continue %}
-    {% endif %}
+    {% for event in relevantTalks %}
 
     {% assign year = event.date | split:"-" | first %}
     {% if year != last_year %}
