@@ -1,0 +1,5 @@
+    <tr>
+      <td><span class="text-tabular-dates">{{ event.date }}</span></td>
+      <td>{% if event.event.url %}<a href="{{ event.event.url }}">{{ event.event.name }}</a>{% else %}{{ event.event.name }}{% endif %}</td>
+      <td>{% if event.talk.url %}<a href="{{ event.talk.url }}">{{ event.talk.name }}</a>{% else %}{{ event.talk.name }}{% endif %}{% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}</td>
+    </tr>
