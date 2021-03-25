@@ -25,12 +25,7 @@ layout: single
     {% assign year = event.date | split:"-" | first %}
     {% if year != last_year %}
     <tr>
-      <td><strong>{{ year }}</strong></td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="6"><strong>{{ year }}</strong></td>
     </tr>
     {% endif %}
     {% assign last_year = year %}
