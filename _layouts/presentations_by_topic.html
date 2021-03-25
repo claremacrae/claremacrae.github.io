@@ -6,7 +6,11 @@ layout: single
 
 {% include /presentations/see-also.html %}
 
-{% assign relevantTalks = site.data.presentations | where_exp:'event','event.upcoming != true' %}
+{% assign relevantTalks = site.data.presentations
+  | where_exp:'event','event.upcoming != true'
+  | where_exp:'event','event.category != "Cancelled"'
+  | where_exp:'event','event.category != "Workshop"'
+%}
 {% assign categoryGroups = relevantTalks | group_by: "category" %}
 {% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
 
@@ -16,9 +20,6 @@ layout: single
   <tbody>
 
   {% for category in categoryGroupsSorted %}
-    {% if category.name == 'Cancelled' or category.name == 'Workshop' %}
-      {% continue %}
-    {% endif %}
     <tr>
       <td colspan="6"><strong>{{ category.name }}</strong></td>
     </tr>
