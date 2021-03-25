@@ -6,7 +6,7 @@ layout: single
 
 {% include /presentations/see-also.html %}
 
-{% assign categoryGroups = site.data.presentations | group_by: "category" %}
+{% assign categoryGroups = site.data.presentations |  where_exp:'event','event.upcoming != true' | group_by: "category" %}
 {% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
 
 <table>
