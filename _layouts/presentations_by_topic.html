@@ -15,7 +15,6 @@ layout: single
 {% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
 
 <table>
-
   {% include /presentations/completed-presentation-head.html %}
   <tbody>
 
@@ -26,7 +25,6 @@ layout: single
 
     {% assign talksOldestFirst = category.items | reverse %}
     {% for event in talksOldestFirst %}
-
     {% include /presentations/completed-presentation-talk-row.html %}
     {% endfor %}
 

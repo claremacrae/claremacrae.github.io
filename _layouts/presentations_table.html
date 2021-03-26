@@ -29,14 +29,16 @@ layout: single
 <table>
   {% include /presentations/completed-presentation-head.html %}
   <tbody>
-    {% for year in eventsByYear %}
 
+  {% for year in eventsByYear %}
     <tr>
       <td colspan="6"><strong>{{ year.name }}</strong></td>
     </tr>
+
     {% for event in year.items %}
     {% include /presentations/completed-presentation-talk-row.html %}
     {% endfor %}
+
     {% endfor %}
   </tbody>
 </table>
