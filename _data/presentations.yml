@@ -3,9 +3,9 @@
   event:
     name: The Legacy of SoCraTes
     url:
-  category: "TBC"
+  category: "Refactoring Superpowers: Work faster and more safely"
   talk:
-    name: "TBC"
+    name: "Refactoring Superpowers: make your IDE do your work, faster and more safely."
     url:
   slides:
     pdf_url:
