@@ -84,14 +84,6 @@
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://bit.ly/LegacyCppNov2020
 
-- date: 2020-09-08
-  event:
-    name: "Online: 8, 15, 22 &amp; 29 Sept"
-  category: "Workshop"
-  talk:
-    name: "Workshop: Testing Legacy Code effectively with Approval Tests"
-    url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
-
 - date: 2020-09-16
   event:
     name: CppCon, Online
@@ -118,6 +110,14 @@
     url: https://youtu.be/J27HoZM_PTI
   links:
     url: https://github.com/claremacrae/talks/blob/main/Quickly_Testing_Qt_Desktop_Applications.md#top
+
+- date: 2020-09-08
+  event:
+    name: "Online: 8, 15, 22 &amp; 29 Sept"
+  category: "Workshop"
+  talk:
+    name: "Workshop: Testing Legacy Code effectively with Approval Tests"
+    url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
 
 - date: 2020-08-06
   event:
