@@ -24,8 +24,6 @@ layout: single
 {% assign relevantTalks = site.data.presentations
   | where_exp:'event','event.upcoming != true'
 %}
-<!--{% assign categoryGroups = relevantTalks | group_by: "category" %}-->
-<!--{% assign categoryGroupsSorted = categoryGroups | sort: "name" %}-->
 {% assign eventsByYear = relevantTalks | group_by_exp: 'event', 'event.date | date: "%Y"' %}
 
 <table>
