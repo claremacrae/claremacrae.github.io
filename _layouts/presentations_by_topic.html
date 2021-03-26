@@ -25,7 +25,7 @@ layout: single
 
     {% assign talksOldestFirst = category.items | reverse %}
     {% for event in talksOldestFirst %}
-    {% include /presentations/completed-presentation-talk-row.html %}
+      {% include /presentations/completed-presentation-talk-row.html %}
     {% endfor %}
 
     {% endfor %}

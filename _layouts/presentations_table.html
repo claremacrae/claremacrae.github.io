@@ -11,7 +11,7 @@ layout: single
   {% include /presentations/upcoming-presentation-head.html %}
   <tbody>
     {% for event in upcomingTalks %}
-    {% include /presentations/upcoming-presentation-talk-row.html %}
+      {% include /presentations/upcoming-presentation-talk-row.html %}
     {% endfor %}
   </tbody>
 </table>
@@ -36,7 +36,7 @@ layout: single
     </tr>
 
     {% for event in year.items %}
-    {% include /presentations/completed-presentation-talk-row.html %}
+      {% include /presentations/completed-presentation-talk-row.html %}
     {% endfor %}
 
     {% endfor %}
