@@ -2,46 +2,43 @@
 layout: single
 ---
 
+{% assign upcomingTalks = site.data.presentations | where_exp:"event","event.upcoming == true" %}
+
+{% if upcomingTalks != empty %}
+<h2 id="upcoming">Upcoming</h2>
+
+<table>
+  {% include /presentations/upcoming-presentation-head.html %}
+  <tbody>
+    {% for event in upcomingTalks %}
+      {% include /presentations/upcoming-presentation-talk-row.html %}
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
 
 <h2 id="completed">Completed</h2>
 
-<p>See also <a href="https://github.com/claremacrae/talks">“Resources and references for my talks”</a> and <a href="https://www.youtube.com/playlist?list=PLoe3M-5Wdtgzzw7J-owNzk2vFOwTO8VtF">YouTube playlist of talks</a>.</p>
+{% include /presentations/see-also.html %}
+
+{% assign relevantTalks = site.data.presentations
+  | where_exp:'event','event.upcoming != true'
+%}
+{% assign eventsByYear = relevantTalks | group_by_exp: 'event', 'event.date | date: "%Y"' %}
 
 <table>
-
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Event</th>
-      <th>Title and Abstract</th>
-      <th>Slides</th>
-      <th>Video</th>
-      <th>Code / Links</th>
-    </tr>
-  </thead>
+  {% include /presentations/completed-presentation-head.html %}
   <tbody>
-    {% assign last_year = "undefined" %}
-    {% for event in site.data.presentations %}
-    {% assign year = event.date | split:"-" | first %}
-    {% if year != last_year %}
+
+  {% for year in eventsByYear %}
     <tr>
-      <td><strong>{{ year }}</strong></td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="6"><strong>{{ year.name }}</strong></td>
     </tr>
-    {% endif %}
-    {% assign last_year = year %}
-    <tr>
-      <td><span class="text-tabular-dates">{{ event.date }}</span></td>
-      <td>{% if event.event.url %}<a href="{{ event.event.url }}">{{ event.event.name }}</a>{% else %}{{ event.event.name }}{% endif %}</td>
-      <td>{% if event.talk.url %}<a href="{{ event.talk.url }}">{{ event.talk.name }}</a>{% else %}{{ event.talk.name }}{% endif %}{% if event.talk.notes %} <br>Note: <a href="{{ event.talk.notes_url }}">{{ event.talk.notes }}</a> {% endif %}</td>
-      <td>{% if event.slides.ppt_url %}<a href="{{ event.slides.ppt_url }}">PPT</a>{% endif %} {% if event.slides.pdf_url %}<a href="{{ event.slides.pdf_url }}">PDF</a>{% endif %}</td>
-      <td>{% if event.video.url %}<a href="{{ event.video.url }}">Video</a>{% endif %}</td>
-      <td>{% if event.links.url %}<a href="{{ event.links.url }}">Links</a>{% endif %} {% if event.links.github %}<a href="{{ event.links.github }}">GitHub</a>{% endif %}{% if event.links.trip_report_url %}<br /> <a href="{{ event.links.trip_report_url }}">Trip Report</a>{% endif %}</td>
-    </tr>
+
+    {% for event in year.items %}
+      {% include /presentations/completed-presentation-talk-row.html %}
+    {% endfor %}
+
     {% endfor %}
   </tbody>
 </table>
