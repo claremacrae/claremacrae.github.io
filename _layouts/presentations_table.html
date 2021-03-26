@@ -26,21 +26,19 @@ layout: single
 %}
 <!--{% assign categoryGroups = relevantTalks | group_by: "category" %}-->
 <!--{% assign categoryGroupsSorted = categoryGroups | sort: "name" %}-->
+{% assign eventsByYear = relevantTalks | group_by_exp: 'event', 'event.date | date: "%Y"' %}
 
 <table>
   {% include /presentations/completed-presentation-head.html %}
   <tbody>
-    {% assign last_year = "undefined" %}
-    {% for event in relevantTalks %}
+    {% for year in eventsByYear %}
 
-    {% assign year = event.date | split:"-" | first %}
-    {% if year != last_year %}
     <tr>
-      <td colspan="6"><strong>{{ year }}</strong></td>
+      <td colspan="6"><strong>{{ year.name }}</strong></td>
     </tr>
-    {% endif %}
-    {% assign last_year = year %}
+    {% for event in year.items %}
     {% include /presentations/completed-presentation-talk-row.html %}
+    {% endfor %}
     {% endfor %}
   </tbody>
 </table>
