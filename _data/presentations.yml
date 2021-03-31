@@ -2,7 +2,7 @@
   upcoming: true
   event:
     name: The Legacy of SoCraTes
-    url:
+    url: https://www.crowdcast.io/e/the-legacy-of-socrates-4/register
   category: "Refactoring Superpowers: Work faster and more safely"
   talk:
     name: "Refactoring Superpowers: make your IDE do your work, faster and more safely."
