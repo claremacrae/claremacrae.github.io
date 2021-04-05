@@ -27,9 +27,9 @@
     notes_url: https://accu.org/conf-news/2021/2021-03-09-accu2021keynotechange/
   slides:
     pdf_url:
-    ppt_url:
+    ppt_url: https://accu.org/conf-docs/PDFs_2021/clare_macrae_refactoring_superpowers.pptx
   video:
-    url:
+    url: https://www.youtube.com/watch?v=BX6gh2xNiuU
   links:
     url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
