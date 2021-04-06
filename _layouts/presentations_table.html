@@ -5,7 +5,7 @@ layout: single
 {% assign upcomingTalks = site.data.presentations | where_exp:"event","event.upcoming == true" %}
 
 {% if upcomingTalks != empty %}
-<h2 id="upcoming">Upcoming</h2>
+<h2 id="upcoming">Upcoming Talks</h2>
 
 <table>
   {% include /presentations/upcoming-presentation-head.html %}
@@ -17,7 +17,7 @@ layout: single
 </table>
 {% endif %}
 
-<h2 id="completed">Completed</h2>
+<h2 id="completed">Completed Talks</h2>
 
 {% include /presentations/see-also.html %}
 
@@ -32,7 +32,7 @@ layout: single
 
   {% for year in eventsByYear %}
     <tr>
-      <td colspan="6"><strong>{{ year.name }}</strong></td>
+      <td colspan="6"><h3 id="{{ year.name | slugify | downcase }}">{{ year.name }}</h3></td>
     </tr>
 
     {% for event in year.items %}
