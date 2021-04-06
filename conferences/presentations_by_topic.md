@@ -1,6 +1,6 @@
 ---
 layout: presentations_by_topic
-toc: false
+toc: true
 title: "Presentations by Topic"
 classes: wide
 read_time: false

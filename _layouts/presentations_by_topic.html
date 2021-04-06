@@ -20,7 +20,7 @@ layout: single
 
   {% for category in categoryGroupsSorted %}
     <tr>
-      <td colspan="6"><h3>{{ category.name }}</h3></td>
+      <td colspan="6"><h3 id="{{ category.name | slugify | downcase }}">{{ category.name }}</h3></td>
     </tr>
 
     {% assign talksOldestFirst = category.items | reverse %}
