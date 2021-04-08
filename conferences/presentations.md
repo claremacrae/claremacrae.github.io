@@ -1,5 +1,5 @@
 ---
-layout: presentations_table
+layout: presentations_by_date
 toc: true
 title: "Presentations by Date"
 classes: wide
