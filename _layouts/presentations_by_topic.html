@@ -2,9 +2,9 @@
 layout: single
 ---
 
-<h2 id="completed">Completed Talks</h2>
-
 {% include /presentations/see-also.html %}
+
+<h2 id="completed">Completed Talks</h2>
 
 {% assign relevantTalks = site.data.presentations
   | where_exp:'event','event.upcoming != true'

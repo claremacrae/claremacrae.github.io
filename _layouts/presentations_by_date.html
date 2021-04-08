@@ -2,6 +2,8 @@
 layout: single
 ---
 
+{% include /presentations/see-also.html %}
+
 {% assign upcomingTalks = site.data.presentations | where_exp:"event","event.upcoming == true" %}
 
 {% if upcomingTalks != empty %}
@@ -18,8 +20,6 @@ layout: single
 {% endif %}
 
 <h2 id="completed">Completed Talks</h2>
-
-{% include /presentations/see-also.html %}
 
 {% assign relevantTalks = site.data.presentations
   | where_exp:'event','event.upcoming != true'
