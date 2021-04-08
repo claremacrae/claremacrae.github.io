@@ -2,6 +2,10 @@
 layout: single
 ---
 
+<h2 id="introduction">Introduction</h2>
+
+<p>All my past and future public talks and presentations, in date order, newest first.</p>
+
 {% include /presentations/see-also.html %}
 
 {% assign upcomingTalks = site.data.presentations | where_exp:"event","event.upcoming == true" %}
