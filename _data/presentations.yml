@@ -1,3 +1,20 @@
+- date: 2021-06-19
+  upcoming: true
+  event:
+    name: Italian C++<br>(subscriptions opening soon)
+    url:
+  category: "Refactoring Superpowers: Work faster and more safely"
+  talk:
+    name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely."
+    url:
+  slides:
+    pdf_url:
+    ppt_url:
+  video:
+    url:
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
+
 - date: 2021-04-14
   upcoming: true
   event:
