@@ -1,8 +1,8 @@
 - date: 2021-06-19
   upcoming: true
   event:
-    name: Italian C++<br>(subscriptions opening soon)
-    url:
+    name: Italian C++
+    url: https://italiancpp.github.io
   category: "Refactoring Superpowers: Work faster and more safely"
   talk:
     name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely."
