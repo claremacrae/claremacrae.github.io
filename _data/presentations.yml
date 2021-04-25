@@ -56,7 +56,7 @@
   category: "Testing Superpowers: Add tests easily"
   talk:
     name: "Testing Superpowers: Using CLion to add tests easily"
-    url: https://blog.jetbrains.com/clion/2021/02/testing-superpowers-webinar-recording/
+    url: /blog/2021/02/clion-webinar-code-and-slides
   slides:
     pdf_url:
     ppt_url: https://www.slideshare.net/ClareMacrae/testing-superpowers-using-clion-to-add-tests-easily
