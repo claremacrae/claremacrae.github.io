@@ -1,3 +1,30 @@
+- date: 2021-07-02
+  upcoming: true
+  event:
+    name: C++ on Sea, Online
+    url: https://cpponsea.uk/
+  category: "Refactoring Superpowers: Work faster and more safely"
+  talk:
+    name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely"
+    url:
+  slides:
+    pdf_url:
+    ppt_url:
+  video:
+    url:
+  links:
+    url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
+
+- date: 2021-07-01
+  upcoming: true
+  event:
+    name: C++ on Sea, Online
+    url: https://cpponsea.uk/
+  category: "Refactoring Superpowers: Work faster and more safely"
+  talk:
+    name: "1 day Workshop: Testing Legacy C++ Code effectively with Approval Tests"
+    url:
+
 - date: 2021-06-19
   upcoming: true
   event:
@@ -5,7 +32,7 @@
     url: https://italiancpp.github.io
   category: "Refactoring Superpowers: Work faster and more safely"
   talk:
-    name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely."
+    name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely"
     url:
   slides:
     pdf_url:
