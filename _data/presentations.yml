@@ -6,7 +6,7 @@
   category: "Refactoring Superpowers: Work faster and more safely"
   talk:
     name: "Refactoring Superpowers: make your C++ IDE do your work, faster and more safely"
-    url:
+    url: https://cpponsea.uk/2021/sessions/refactoring-superpowers-make-your-cpp-ide-do-your-work-faster-and-more-safely.html
   slides:
     pdf_url:
     ppt_url:
@@ -23,7 +23,7 @@
   category: "Refactoring Superpowers: Work faster and more safely"
   talk:
     name: "1 day Workshop: Testing Legacy C++ Code effectively with Approval Tests"
-    url:
+    url: https://cpponsea.uk/2021/sessions/workshop_testing-legacy-cpp-code-effectively-with-approval-tests.html
 
 - date: 2021-06-19
   upcoming: true
