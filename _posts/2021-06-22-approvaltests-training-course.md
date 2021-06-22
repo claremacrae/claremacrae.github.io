@@ -14,16 +14,14 @@ tags:
 
 ## Details
 
-I'm excited to be offering this practical one-day hands-on workshop as part of C++ on Sea 2021.  
-Full details are [on the conference website](https://cpponsea.uk/2021/sessions/workshop_testing-legacy-cpp-code-effectively-with-approval-tests.html).
+I'm excited to be offering this practical one-day hands-on workshop as part of C++ on Sea 2021.
 
-
-
-| Course:  | Testing Legacy C++ Code effectively with Approval Tests      |
-| -------- | ------------------------------------------------------------ |
-| Date:    | Thursday, 1st July 2021: 10:30-19:15 BST                     |
-| Venue:   | Online, at C++ on Sea                                        |
-| Booking: | [Register here](https://cpponsea.uk/tickets/) - and use the discount code **SPEAKER21_10** for **10% off** |
+| Course:       | Testing Legacy C++ Code effectively with Approval Tests      |
+| ------------- | ------------------------------------------------------------ |
+| Date:         | Thursday, 1st July 2021: 10:30-19:15 BST                     |
+| Venue:        | Online, at C++ on Sea                                        |
+| Booking:      | [Register here](https://cpponsea.uk/tickets/) - and use the discount code **SPEAKER21_10** for **10% off** |
+| Further Info: | See the [conference website](https://cpponsea.uk/2021/sessions/workshop_testing-legacy-cpp-code-effectively-with-approval-tests.html). |
 
 Read on for details, and what you'll learn fom the course.
 
