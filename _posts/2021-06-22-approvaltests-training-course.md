@@ -44,6 +44,8 @@ In this hands-on workshop, you will learn not just how to use Approval Tests to 
 
 ## Instructor: Clare Macrae
 
+Clare is the co-author of Approval Tests for C++, and an experienced speaker and trainer on working effectively with legacy code.
+
 * Twitter: [@ClareMacraeUK](https://twitter.com/ClareMacraeUK)
 * [Blog](https://claremacrae.co.uk/blog/)
 * [YouTube](https://www.youtube.com/playlist?list=PLoe3M-5Wdtgzzw7J-owNzk2vFOwTO8VtF)
