@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Approval Tests Training Course (1st July 2021)"
-excerpt: Hands-on workshop, learning to use Approval Tests on legacy code for effective, maintainable, expressive tests even on large systems
+excerpt: Hands-on workshop, learning to use Approval Tests on legacy code for effective, maintainable, expressive tests even on large systems - with discount code for 10% off registration
 toc: true
 toc_sticky: false
 date: 2021-06-22
