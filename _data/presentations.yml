@@ -121,7 +121,7 @@
 - date: 2020-11-03
   event:
     name: "Online: 3, 10, 17 &amp; 24 Nov"
-  category: "Workshop"
+  category: "Workshop: Testing Legacy C++ Code effectively with Approval Tests"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://bit.ly/LegacyCppNov2020
@@ -156,7 +156,7 @@
 - date: 2020-09-08
   event:
     name: "Online: 8, 15, 22 &amp; 29 Sept"
-  category: "Workshop"
+  category: "Workshop: Testing Legacy C++ Code effectively with Approval Tests"
   talk:
     name: "Workshop: Testing Legacy Code effectively with Approval Tests"
     url: https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course
@@ -180,7 +180,7 @@
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
-  category: "Workshop"
+  category: "Workshop: Testing Legacy C++ Code effectively with Approval Tests"
   talk:
     name: "Testing Legacy Code effectively with Approval Tests: 1-day workshop, presented jointly with Llewellyn Falco"
     url: https://cpponsea.uk/2020/sessions/workshop_testing-legacy-code-effectively-with-approval-tests.html
