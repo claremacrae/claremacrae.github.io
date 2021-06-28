@@ -13,7 +13,6 @@ layout: single
 {% assign relevantTalks = site.data.presentations
   | where_exp:'event','event.upcoming != true'
   | where_exp:'event','event.category != "Cancelled"'
-  | where_exp:'event','event.category != "Workshop"'
 %}
 {% assign categoryGroups = relevantTalks | group_by: "category" %}
 {% assign categoryGroupsSorted = categoryGroups | sort: "name" %}
