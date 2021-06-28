@@ -35,9 +35,9 @@
     url:
   slides:
     pdf_url:
-    ppt_url:
+    ppt_url: https://github.com/italiancpp/itcppcon21/raw/main/Clare%20Macrae%20-%20Cpp%20Refactoring%20Superpowers.pptx
   video:
-    url:
+    url: https://www.youtube.com/watch?v=KM26VufN9TA
   links:
     url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
