@@ -16,13 +16,12 @@
     url: https://github.com/claremacrae/talks/blob/main/Refactoring_Superpowers.md#top
 
 - date: 2021-07-01
-  upcoming: true
   event:
     name: C++ on Sea, Online
     url: https://cpponsea.uk/
-  category: "Refactoring Superpowers: Work faster and more safely"
+  category: "Workshop: Testing Legacy C++ Code effectively with Approval Tests"
   talk:
-    name: "1 day Workshop: Testing Legacy C++ Code effectively with Approval Tests:<p>Use the code SPEAKER21_10 for 10% discount"
+    name: "Workshop: Testing Legacy C++ Code effectively with Approval Tests"
     url: https://cpponsea.uk/2021/sessions/workshop_testing-legacy-cpp-code-effectively-with-approval-tests.html
 
 - date: 2021-06-19
