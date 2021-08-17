@@ -4,8 +4,6 @@ main:
     url: /blog/
   - title: "Contact"
     url: /contact_me.html
-  - title: "Hire Me"
-    url: /consulting/hire_me.html
   - title: "Bio"
     url: /conferences/bio.html
 
@@ -20,8 +18,6 @@ sidebar:
         url: /background.html
   - title: Consulting
     children:
-      - title: "Hire Me"
-        url: /consulting/hire_me.html
       - title: "Qualifications"
         url: /consulting/qualifications.html
   - title: Blog

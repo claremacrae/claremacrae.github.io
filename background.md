@@ -44,7 +44,7 @@ Then in 2018 and 2019 I lead another project to significantly speed up the relea
 
 ## Consulting
 
-In 2019 I set up Clare Macrae Consulting Ltd, and am [available for consulting and training](/consulting/hire_me.html) in all aspects of working with legacy and un-tested code.
+In 2019 I set up Clare Macrae Consulting Ltd, which I ran for 2 years, covering all aspects of working with legacy and un-tested code.
 
 ## Interests
 
