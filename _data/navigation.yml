@@ -12,12 +12,12 @@ sidebar:
     children:
       - title: "Home"
         url: /
+  - title: About
+    children:
       - title: "Contact Me"
         url: /contact_me.html
       - title: "Background"
         url: /background.html
-  - title: Consulting
-    children:
       - title: "Qualifications"
         url: /consulting/qualifications.html
   - title: Blog
