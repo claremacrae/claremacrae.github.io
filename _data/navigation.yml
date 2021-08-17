@@ -18,10 +18,6 @@ sidebar:
         url: /contact_me.html
 #      - title: "Background"
 #        url: /background.html
-  - title: Training
-    children:
-      - title: "Approval Tests"
-        url: /training/approval_tests.html
   - title: Consulting
     children:
       - title: "Hire Me"
