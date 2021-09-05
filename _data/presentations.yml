@@ -87,7 +87,7 @@
   video:
     url: https://www.youtube.com/watch?v=w2CzYK5ZJys
   links:
-    url: http://127.0.0.1:4000/blog/2021/02/clion-webinar-code-and-slides
+    url: /blog/2021/02/clion-webinar-code-and-slides
 
 - date: 2020-12-03
   event:
