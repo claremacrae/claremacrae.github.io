@@ -1,3 +1,19 @@
+- date: 2022-04-09
+  event:
+    name: Obsidian Community Talks
+    url: https://publish.obsidian.md/hub/01+-+Community/Events/Obsidian+Community+Talks
+  category: "Obsidian"
+  talk:
+    name: "Plugin Testing for (Obsidian) Developers"
+    url: https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Community+Talks/Plugin+Testing+for+Developers
+  slides:
+    pdf_url:
+    ppt_url:
+  video:
+    url: https://www.youtube.com/watch?v=OviNyXnvi-o
+  links:
+    url: https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Plugin+Developers+to+Automate+Tests
+
 - date: 2021-07-02
   event:
     name: C++ on Sea, Online
