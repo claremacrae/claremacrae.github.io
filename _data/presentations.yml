@@ -1,3 +1,19 @@
+- date: 2022-05-24
+  event:
+    name: Meeting C++ Online
+    url: https://www.meetup.com/meeting-cpp-online/events/285251609/
+  category: "Speaking"
+  talk:
+    name: "Better Code Samples in Programming Talks"
+    url: 
+  slides:
+    pdf_url:
+    ppt_url:
+  video:
+    url: https://www.youtube.com/watch?v=svAjCc-qOtY&list=PLoe3M-5Wdtgzzw7J-owNzk2vFOwTO8VtF
+  links:
+    url: 
+
 - date: 2022-04-09
   event:
     name: Obsidian Community Talks
